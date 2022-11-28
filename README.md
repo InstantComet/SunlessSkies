@@ -8,3 +8,8 @@
 
 ***
 # 使用方法：
+把所有文件放入
+```
+你的steam库路径\steamapps\common\Sunless Skies
+```
+与Sunless Skies.exe位于同一目录下
