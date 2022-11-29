@@ -1,0 +1,737 @@
+[
+  {
+    "key": "ui1",
+    "original": "Perhaps Not",
+    "translation": "暂时不要"
+  },
+  {
+    "key": "ui2",
+    "original": "New Game",
+    "translation": "新游戏"
+  },
+  {
+    "key": "ui3",
+    "original": "Narrative Issue",
+    "translation": "叙述性问题"
+  },
+  {
+    "key": "ui4",
+    "original": "Submit",
+    "translation": "提交"
+  },
+  {
+    "key": "ui5",
+    "original": "Description (optional)",
+    "translation": "描述（可选）"
+  },
+  {
+    "key": "ui6",
+    "original": "Category:",
+    "translation": "类别:"
+  },
+  {
+    "key": "ui7",
+    "original": "Report a Bug",
+    "translation": "报告一个错误"
+  },
+  {
+    "key": "ui8",
+    "original": "Cancel",
+    "translation": "取消"
+  },
+  {
+    "key": "ui9",
+    "original": "Uploading... {{A}}%",
+    "translation": "上传... {{A}}%"
+  },
+  {
+    "key": "ui10",
+    "original": "Submitting Bug Report",
+    "translation": "提交错误报告"
+  },
+  {
+    "key": "ui11",
+    "original": "Paused",
+    "translation": "暂停使用"
+  },
+  {
+    "key": "ui12",
+    "original": "Exit to Desktop",
+    "translation": "退出到桌面"
+  },
+  {
+    "key": "ui13",
+    "original": "Credits",
+    "translation": "制作人员"
+  },
+  {
+    "key": "ui14",
+    "original": "Options",
+    "translation": "选项"
+  },
+  {
+    "key": "ui15",
+    "original": "Load Game",
+    "translation": "加载游戏"
+  },
+  {
+    "key": "ui16",
+    "original": "Continue",
+    "translation": "继续"
+  },
+  {
+    "key": "ui17",
+    "original": "Saving",
+    "translation": "正在保存"
+  },
+  {
+    "key": "ui18",
+    "original": "Sunless Skies v{{A}}.fcf{{B}}af{{C}}a",
+    "translation": "无光之空 v{{A}}.fcf{{B}}af{{C}}a"
+  },
+  {
+    "key": "ui19",
+    "original": "Back",
+    "translation": "返回"
+  },
+  {
+    "key": "ui20",
+    "original": "Controls",
+    "translation": "按键绑定"
+  },
+  {
+    "key": "ui21",
+    "original": "Graphics",
+    "translation": "图像"
+  },
+  {
+    "key": "ui22",
+    "original": "Audio",
+    "translation": "音频"
+  },
+  {
+    "key": "ui23",
+    "original": "Ambient SFX Volume ({{A}}%):",
+    "translation": "环境音效音量 ({{A}}%):"
+  },
+  {
+    "key": "ui24",
+    "original": "SFX Volume ({{A}}%):",
+    "translation": "音效音量 ({{A}}%):"
+  },
+  {
+    "key": "ui25",
+    "original": "Music Volume ({{A}}%):",
+    "translation": "音乐音量  ({{A}}%):"
+  },
+  {
+    "key": "ui26",
+    "original": "Restore Defaults",
+    "translation": "恢复默认值"
+  },
+  {
+    "key": "ui27",
+    "original": "Apply",
+    "translation": "应用"
+  },
+  {
+    "key": "ui28",
+    "original": "On",
+    "translation": "开启"
+  },
+  {
+    "key": "ui29",
+    "original": "Transparent UI",
+    "translation": "透明UI"
+  },
+  {
+    "key": "ui30",
+    "original": "Texture Quality",
+    "translation": "纹理质量"
+  },
+  {
+    "key": "ui31",
+    "original": "Standard",
+    "translation": "标准"
+  },
+  {
+    "key": "ui32",
+    "original": "Font Size",
+    "translation": "字体大小"
+  },
+  {
+    "key": "ui33",
+    "original": "Off",
+    "translation": "关闭"
+  },
+  {
+    "key": "ui34",
+    "original": "Full Screen",
+    "translation": "全屏"
+  },
+  {
+    "key": "ui35",
+    "original": "{{A}}x{{B}}",
+    "translation": "{{A}}x{{B}}"
+  },
+  {
+    "key": "ui36",
+    "original": "Resolution",
+    "translation": "分辨率"
+  },
+  {
+    "key": "ui37",
+    "original": "Large",
+    "translation": "较大"
+  },
+  {
+    "key": "ui38",
+    "original": "Low",
+    "translation": "低"
+  },
+  {
+    "key": "ui39",
+    "original": "Toggle Journal",
+    "translation": "开/关日志面板"
+  },
+  {
+    "key": "ui40",
+    "original": "Toggle Profile",
+    "translation": "开/关概览面板"
+  },
+  {
+    "key": "ui41",
+    "original": "Toggle Hold",
+    "translation": "开/关货舱面板"
+  },
+  {
+    "key": "ui42",
+    "original": "Horn",
+    "translation": "喇叭"
+  },
+  {
+    "key": "ui43",
+    "original": "Light Toggle",
+    "translation": "开/关大灯"
+  },
+  {
+    "key": "ui44",
+    "original": "Explore",
+    "translation": "放出探子"
+  },
+  {
+    "key": "ui45",
+    "original": "Interact with object",
+    "translation": "与对象互动"
+  },
+  {
+    "key": "ui46",
+    "original": "Engage secondary weapon",
+    "translation": "启用次要武器"
+  },
+  {
+    "key": "ui47",
+    "original": "Engage primary weapon",
+    "translation": "启用主要武器"
+  },
+  {
+    "key": "ui48",
+    "original": "Pause or resume",
+    "translation": "暂停或恢复"
+  },
+  {
+    "key": "ui49",
+    "original": "Engage Scout",
+    "translation": "启用侦察者"
+  },
+  {
+    "key": "ui50",
+    "original": "Open Chart",
+    "translation": "开启地图"
+  },
+  {
+    "key": "ui51",
+    "original": "Cruise / Full Steam",
+    "translation": "巡航/全速前进"
+  },
+  {
+    "key": "ui52",
+    "original": "Lateral Thrust Left",
+    "translation": "向左平移"
+  },
+  {
+    "key": "ui53",
+    "original": "Lateral Thrust Right",
+    "translation": "向右平移"
+  },
+  {
+    "key": "ui54",
+    "original": "Move Backward",
+    "translation": "后退"
+  },
+  {
+    "key": "ui55",
+    "original": "Move Forward",
+    "translation": "前进"
+  },
+  {
+    "key": "ui56",
+    "original": "Move Vertical",
+    "translation": "垂直移动"
+  },
+  {
+    "key": "ui57",
+    "original": "Move Left",
+    "translation": "左转"
+  },
+  {
+    "key": "ui58",
+    "original": "Move Right",
+    "translation": "右转"
+  },
+  {
+    "key": "ui59",
+    "original": "Move Horizontal",
+    "translation": "水平移动"
+  },
+  {
+    "key": "ui60",
+    "original": "Mouse",
+    "translation": "鼠标"
+  },
+  {
+    "key": "ui61",
+    "original": "Keyboard",
+    "translation": "键盘"
+  },
+  {
+    "key": "ui62",
+    "original": "Actions",
+    "translation": "行动"
+  },
+  {
+    "key": "ui63",
+    "original": "Done",
+    "translation": "已完成"
+  },
+  {
+    "key": "ui64",
+    "original": "Apply Changes",
+    "translation": "应用更改"
+  },
+  {
+    "key": "ui65",
+    "original": "Use Gamepad:",
+    "translation": "使用游戏手柄。"
+  },
+  {
+    "key": "ui66",
+    "original": "No Controllers Detected",
+    "translation": "没有检测到游戏手柄"
+  },
+  {
+    "key": "ui67",
+    "original": "Gamepad:",
+    "translation": "游戏手柄。"
+  },
+  {
+    "key": "ui68",
+    "original": "Gamepad Options",
+    "translation": "游戏手柄选项"
+  },
+  {
+    "key": "ui69",
+    "original": "Toggle Officers",
+    "translation": "切换车务官"
+  },
+  {
+    "key": "ui70",
+    "original": "UI Navigation Horizontal",
+    "translation": "横向UI导航"
+  },
+  {
+    "key": "ui71",
+    "original": "UI Move Right",
+    "translation": "UI 右移"
+  },
+  {
+    "key": "ui72",
+    "original": "UI Move Left",
+    "translation": "UI 向左移动"
+  },
+  {
+    "key": "ui73",
+    "original": "UI Navigation Vertical",
+    "translation": "UI 垂直导航"
+  },
+  {
+    "key": "ui74",
+    "original": "UI Move Up",
+    "translation": "UI 向上移动"
+  },
+  {
+    "key": "ui75",
+    "original": "UI Move Down",
+    "translation": "UI 下移"
+  },
+  {
+    "key": "ui76",
+    "original": "UI Scroll",
+    "translation": "UI 滚动"
+  },
+  {
+    "key": "ui77",
+    "original": "UI Scroll Up",
+    "translation": "用户界面向上滚动"
+  },
+  {
+    "key": "ui78",
+    "original": "UI Scroll Down",
+    "translation": "UI向下滚动"
+  },
+  {
+    "key": "ui79",
+    "original": "UI Select",
+    "translation": "UI 选择"
+  },
+  {
+    "key": "ui80",
+    "original": "UI Submit",
+    "translation": "UI 提交"
+  },
+  {
+    "key": "ui81",
+    "original": "UI Cancel",
+    "translation": "UI 取消"
+  },
+  {
+    "key": "ui82",
+    "original": "UI Tab Right",
+    "translation": "UI 标签右侧"
+  },
+  {
+    "key": "ui83",
+    "original": "UI Tab Left",
+    "translation": "UI 标签左侧"
+  },
+  {
+    "key": "ui84",
+    "original": "Primary fire:",
+    "translation": "主武器。"
+  },
+  {
+    "key": "ui85",
+    "original": "Toggle cruise control:",
+    "translation": "切换巡航控制。"
+  },
+  {
+    "key": "ui86",
+    "original": "Dodge left:\\nDodge right:",
+    "translation": "向左躲避。\\n向右躲避。"
+  },
+  {
+    "key": "ui87",
+    "original": "Thrust:\\nBrake:\\nTurn left:\\nTurn right:",
+    "translation": "前进:\\n刹车:\\n左转:\\n右转:"
+  },
+  {
+    "key": "ui88",
+    "original": "Hold",
+    "translation": "保持"
+  },
+  {
+    "key": "ui89",
+    "original": "Hull",
+    "translation": "壳"
+  },
+  {
+    "key": "ui90",
+    "original": "{{A}} barrels in hold. \\n{{B}}% remaining in current barrel.",
+    "translation": "{{A}}持有的桶。\\n当前桶中剩余的{{B}}%。"
+  },
+  {
+    "key": "ui91",
+    "original": "Fuel",
+    "translation": "燃料"
+  },
+  {
+    "key": "ui92",
+    "original": "Terror: {{A}}%\\nNightmares: Untroubled",
+    "translation": "恐怖。{{A}}%\\n恶梦。无所畏惧"
+  },
+  {
+    "key": "ui93",
+    "original": "Hold [H]",
+    "translation": "按住[H]。"
+  },
+  {
+    "key": "ui94",
+    "original": "Profile [P]",
+    "translation": "简介 [P]"
+  },
+  {
+    "key": "ui95",
+    "original": "Journal [J]",
+    "translation": "期刊[J]。"
+  },
+  {
+    "key": "ui96",
+    "original": "Officers [O]",
+    "translation": "车务官[O]"
+  },
+  {
+    "key": "ui97",
+    "original": "Chart [Tab]",
+    "translation": "图表 [Tab]"
+  },
+  {
+    "key": "ui98",
+    "original": "Tutorial",
+    "translation": "教程"
+  },
+  {
+    "key": "ui99",
+    "original": "Continue...",
+    "translation": "继续..."
+  },
+  {
+    "key": "ui100",
+    "original": "Onwards!",
+    "translation": "继续前进!"
+  },
+  {
+    "key": "ui101",
+    "original": "Exit",
+    "translation": "退出"
+  },
+  {
+    "key": "ui102",
+    "original": "Save and Exit",
+    "translation": "保存并退出"
+  },
+  {
+    "key": "ui103",
+    "original": "Report a bug (F{{A}})",
+    "translation": "报告一个错误 (F{{A}})"
+  },
+  {
+    "key": "ui104",
+    "original": "Resume",
+    "translation": "继续"
+  },
+  {
+    "key": "ui105",
+    "original": "Pause Menu",
+    "translation": "暂停菜单"
+  },
+  {
+    "key": "ui106",
+    "original": "Tips",
+    "translation": "技巧"
+  },
+  {
+    "key": "ui107",
+    "original": "Reset Tips",
+    "translation": "重置提示"
+  },
+  {
+    "key": "ui108",
+    "original": "Disable Tip Popups",
+    "translation": "禁用提示弹出窗口"
+  },
+  {
+    "key": "ui109",
+    "original": "Yes",
+    "translation": "是"
+  },
+  {
+    "key": "ui110",
+    "original": "No",
+    "translation": "否"
+  },
+  {
+    "key": "ui111",
+    "original": "You can't currently save, either because you aren't docked at a port, or you are in the middle of making a story choice. Do you want to return to the title screen without saving?",
+    "translation": "你目前不能保存，要么是因为你没有停靠在港口，要么是你正在做一个故事的选择。你想在不保存的情况下返回标题屏幕吗？"
+  },
+  {
+    "key": "ui112",
+    "original": "Exit without saving",
+    "translation": "不保存退出"
+  },
+  {
+    "key": "ui113",
+    "original": "Orphean",
+    "translation": "俄耳甫斯"
+  },
+  {
+    "key": "ui114",
+    "original": "The Hold",
+    "translation": "货舱"
+  },
+  {
+    "key": "ui115",
+    "original": "x{{A}}",
+    "translation": "x{{A}}"
+  },
+  {
+    "key": "ui116",
+    "original": "[<#FFD27C>G</color>] Explore",
+    "translation": "[<#FFD27C>G</color>]探索"
+  },
+  {
+    "key": "ui117",
+    "original": "Begin",
+    "translation": "开始"
+  },
+  {
+    "key": "ui118",
+    "original": "[<#FFD27C>R</color>] Dock",
+    "translation": "[<#FFD27C>R</color>]进站"
+  },
+  {
+    "key": "ui119",
+    "original": "Transit Relay",
+    "translation": "中转站"
+  },
+  {
+    "key": "ui120",
+    "original": "Merciful campaign",
+    "translation": "仁慈的运动"
+  },
+  {
+    "key": "ui121",
+    "original": "Legacy campaign",
+    "translation": "遗产运动"
+  },
+  {
+    "key": "ui122",
+    "original": "If you die, you can reload or continue with a new captain.",
+    "translation": "如果你死了，你可以重新加载或用一个新的队长继续。"
+  },
+  {
+    "key": "ui123",
+    "original": "- OR -",
+    "translation": "- 或 -"
+  },
+  {
+    "key": "ui124",
+    "original": "If you die, you can only continue with a new captain.",
+    "translation": "如果你死了，你只能用一个新的队长继续。"
+  },
+  {
+    "key": "ui125",
+    "original": "Begin a new game",
+    "translation": "开始一个新的游戏"
+  },
+  {
+    "key": "ui126",
+    "original": "None",
+    "translation": "无"
+  },
+  {
+    "key": "ui127",
+    "original": "Confirm",
+    "translation": "确认"
+  },
+  {
+    "key": "ui128",
+    "original": "Supply Consumption",
+    "translation": "供应消耗"
+  },
+  {
+    "key": "ui129",
+    "original": "Fuel and Supplies are consumed at the default rate.",
+    "translation": " 燃料和补给品按默认比率消耗。"
+  },
+  {
+    "key": "ui130",
+    "original": "Enemy Projectile Speed",
+    "translation": "敌人的投射速度"
+  },
+  {
+    "key": "ui131",
+    "original": "Enemy projectiles move at the default speed.",
+    "translation": " 敌人的弹丸以默认速度移动。"
+  },
+  {
+    "key": "ui132",
+    "original": "Aiming Assistance",
+    "translation": "瞄准援助"
+  },
+  {
+    "key": "ui133",
+    "original": "Only a few player weapons arc towards targets.",
+    "translation": " 只有少数玩家的武器对目标有弧度。"
+  },
+  {
+    "key": "ui134",
+    "original": "Difficulty",
+    "translation": "难度"
+  },
+  {
+    "key": "ui135",
+    "original": "Gentle",
+    "translation": "温和"
+  },
+  {
+    "key": "ui136",
+    "original": "Many player weapons arc gently towards targets, making aiming easier.",
+    "translation": " 许多玩家的武器向目标缓缓划出弧线，使瞄准更容易。"
+  },
+  {
+    "key": "ui137",
+    "original": "Thrifty",
+    "translation": "勤俭节约"
+  },
+  {
+    "key": "ui138",
+    "original": "Fuel and Supplies last longer, making it a little easier to survive and prosper. ",
+    "translation": " 燃料和补给品持续时间更长，使生存和繁荣更容易一点。"
+  },
+  {
+    "key": "ui139",
+    "original": "Measured",
+    "translation": "测量的"
+  },
+  {
+    "key": "ui140",
+    "original": "Enemy projectiles are somewhat slower, making it easier to avoid them.",
+    "translation": " 敌人的投射物在某种程度上更慢，使之更容易避开。"
+  },
+  {
+    "key": "ui141",
+    "original": "Moderate",
+    "translation": "中等水平"
+  },
+  {
+    "key": "ui142",
+    "original": "Many player weapons arc aggressively towards targets, making aiming easier.",
+    "translation": " 许多玩家的武器对目标产生了积极的弧度，使瞄准更加容易。"
+  },
+  {
+    "key": "ui143",
+    "original": "Provident",
+    "translation": "天意"
+  },
+  {
+    "key": "ui144",
+    "original": "Fuel and Supplies last much longer. If you're finding it hard to survive or earn money, this should help.",
+    "translation": " 如果你觉得生存或赚钱很困难，这应该有所帮助。"
+  },
+  {
+    "key": "ui145",
+    "original": "Stately",
+    "translation": "高贵的"
+  },
+  {
+    "key": "ui146",
+    "original": "Enemy projectiles are significantly slower, making it easier to avoid them.",
+    "translation": " 敌人的投射物明显变慢，使之更容易避开。"
+  },
+  {
+    "key": "ui147",
+    "original": "Open Radial Menu",
+    "translation": "打开放射状菜单"
+  }
+]
