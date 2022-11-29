@@ -1,0 +1,46 @@
+[Message: Preloader] BepInEx 6.0.0-pre.1 - Sunless Skies
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 32-bit (x86)
+[Info   : Preloader] Running under Unity v2019.4.2
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [XUnity Auto Translator 5.2.0]
+[Info   :Unhollower] Registered mono type XUnity.AutoTranslator.Plugin.Core.PluginLoader+AutoTranslatorProxyBehaviour in il2cpp domain
+[Info   :   BepInEx] Loading [XUnity Resource Redirector 2.0.0]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :XUnity.AutoTranslator] Force loading ALL proxy assemblies.
+[Warning:XUnity.AutoTranslator] Could not find 'UnityEngine.GUI+ToolbarButtonSize' in IL2CPP domain even though it could be found in the managed domain.
+[Info   :XUnity.AutoTranslator] Version of TextMesh Pro: 1.4.0.
+[Info   :Unhollower] Registered mono type UnhollowerRuntimeLib.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :XUnity.AutoTranslator] Attempting to load TextMesh Pro font from asset bundle.
+[Info   :XUnity.AutoTranslator] Loaded TextMesh Pro font uses version: 1.1.0
+[Warning:XUnity.AutoTranslator] TextMesh Pro version mismatch. Font asset version: 1.1.0, TextMesh Pro version: 1.4.0
+[Info   :XUnity.AutoTranslator] Loaded fallback font for TextMesh Pro: overTMP
+[Info   :XUnity.AutoTranslator] Loaded XUnity.AutoTranslator into Unity [2019.4.2f1] game.
+[Info   :XUnity.AutoTranslator] Attempting to load TextMesh Pro font from asset bundle.
+[Warning:XUnity.AutoTranslator] Could not load asset bundle while loading font: D:\SteamLibrary\steamapps\common\Sunless Skies\overTMP
+[Info   :Unhollower] Registered mono type XUnity.AutoTranslator.Plugin.Core.Il2CppManagedEnumerator in il2cpp domain
+[Info   :XUnity.AutoTranslator] Skipping plugin scan because no plugin-specific translations has been registered.
+[Error  :XUnity.AutoTranslator] Error occurred while retrieving translation. Request timed out.
+[Error  :XUnity.AutoTranslator] Failed: '
+Wispy condensation trails cross the sky; the ghosts of passing trains.'
+[Info   :XUnity.AutoTranslator] Toggling translations of 538 objects.
+[Info   :XUnity.AutoTranslator] Toggling translations of 506 objects.
+[Error  :XUnity.AutoTranslator] Error occurred while retrieving translation. Request timed out.
+[Error  :XUnity.AutoTranslator] Failed: 'UCE Silverstone'
+[Error  :XUnity.AutoTranslator] Failed: 'UCE Tempest'
+[Error  :XUnity.AutoTranslator] Failed: 'The Roanoke'
+[Error  :XUnity.AutoTranslator] Failed: 'The Belfair Owl'
+[Error  :XUnity.AutoTranslator] Failed: 'The Melancholy Budapest'
+[Error  :XUnity.AutoTranslator] Failed: 'The Faraday'
+[Error  :XUnity.AutoTranslator] Failed: 'Stories'
+[Error  :XUnity.AutoTranslator] Failed: 'Shops'
+[Error  :XUnity.AutoTranslator] Failed: 'Bazaar'
+[Error  :XUnity.AutoTranslator] Failed: 'New Winchester Market'
+[Error  :XUnity.AutoTranslator] Failed: 'Mme. Lumière's'
+[Error  :XUnity.AutoTranslator] Failed: 'The Rönnholm'
+[Error  :XUnity.AutoTranslator] Failed: 'The Bittersweet Aria'
+[Error  :XUnity.AutoTranslator] A batch operation failed. Disabling batching and restarting failed jobs.

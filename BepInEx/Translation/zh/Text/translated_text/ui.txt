@@ -183,3 +183,5 @@ New Winchester Market=新温州市场
 Bazaar=集市
 Shops=商店
 Stories=故事
+Failure!=失败了!
+Success!=成功了!

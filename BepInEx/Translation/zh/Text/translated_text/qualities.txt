@@ -3026,7 +3026,7 @@ BKSpawnTimer,BKSpawnTimer
 Captain Whitlock ensured that this was left to you along with the Orphean, her locomotive. Her last wish was that you take it to a certain address in London, at your convenience.=惠特洛克船长确保将这个东西和她的火车头奥菲安号一起留给你。她最后的愿望是，在你方便的时候，把它带到伦敦的某个地址。
 blackbox=黑匣子
 You have been bequeathed a large black box which once belonged to Captain Whitlock.=你被遗赠了一个大黑箱子，它曾经属于惠特洛克车长。
-You no longer possess a large black box.=你不再拥有一个大黑箱子。
+<i>You no longer possess a large black box.</i>=<i>你不再拥有一个大黑盒子。</i>
 Black Box=黑箱子
 This grizzled Blemmigan has seen all the world can offer. It has been a warrior  a poet  a king. But it finds no pleasure now in war, nor words, nor reign.=这个灰头土脸的真菌虫人见过世界上所有能提供的东西。它曾是一名战士、诗人和国王。但它现在在战争中找不到乐趣，也没有文字，更没有统治。
 blemmigan=布莱米根
