@@ -1,48 +1,17 @@
-{{A}}st Jan {{B}}={{B}}年3月{{A}}日
-{{A}}rd Jan {{B}}={{B}}年3月{{A}}日
-{{A}}nd Jan {{B}}={{B}}年3月{{A}}日
-{{A}}th Jan {{B}}={{B}}年3月{{A}}日
-{{A}}st Feb {{B}}={{B}}年3月{{A}}日
-{{A}}rd Feb {{B}}={{B}}年3月{{A}}日
-{{A}}nd Feb {{B}}={{B}}年3月{{A}}日
-{{A}}th Feb {{B}}={{B}}年3月{{A}}日
-{{A}}st Mar {{B}}={{B}}年3月{{A}}日
-{{A}}rd Mar {{B}}={{B}}年3月{{A}}日
-{{A}}nd Mar {{B}}={{B}}年3月{{A}}日
-{{A}}th Mar {{B}}={{B}}年3月{{A}}日
-{{A}}st Apr {{B}}={{B}}年3月{{A}}日
-{{A}}rd Apr {{B}}={{B}}年3月{{A}}日
-{{A}}nd Apr {{B}}={{B}}年3月{{A}}日
-{{A}}th Apr {{B}}={{B}}年3月{{A}}日
-{{A}}st May {{B}}={{B}}年3月{{A}}日
-{{A}}rd May {{B}}={{B}}年3月{{A}}日
-{{A}}nd May {{B}}={{B}}年3月{{A}}日
-{{A}}th May {{B}}={{B}}年3月{{A}}日
-{{A}}st Jun {{B}}={{B}}年3月{{A}}日
-{{A}}rd Jun {{B}}={{B}}年3月{{A}}日
-{{A}}nd Jun {{B}}={{B}}年3月{{A}}日
-{{A}}th Jun {{B}}={{B}}年3月{{A}}日
-{{A}}st Jul {{B}}={{B}}年3月{{A}}日
-{{A}}rd Jul {{B}}={{B}}年3月{{A}}日
-{{A}}nd Jul {{B}}={{B}}年3月{{A}}日
-{{A}}th Jul {{B}}={{B}}年3月{{A}}日
-{{A}}st Aug {{B}}={{B}}年3月{{A}}日
-{{A}}rd Aug {{B}}={{B}}年3月{{A}}日
-{{A}}nd Aug {{B}}={{B}}年3月{{A}}日
-{{A}}th Aug {{B}}={{B}}年3月{{A}}日
-{{A}}st Sept {{B}}={{B}}年3月{{A}}日
-{{A}}rd Sept {{B}}={{B}}年3月{{A}}日
-{{A}}nd Sept {{B}}={{B}}年3月{{A}}日
-{{A}}th Sept {{B}}={{B}}年3月{{A}}日
-{{A}}st Oct {{B}}={{B}}年3月{{A}}日
-{{A}}rd Oct {{B}}={{B}}年3月{{A}}日
-{{A}}nd Oct {{B}}={{B}}年3月{{A}}日
-{{A}}th Oct {{B}}={{B}}年3月{{A}}日
-{{A}}st Nov {{B}}={{B}}年3月{{A}}日
-{{A}}rd Nov {{B}}={{B}}年3月{{A}}日
-{{A}}nd Nov {{B}}={{B}}年3月{{A}}日
-{{A}}th Nov {{B}}={{B}}年3月{{A}}日
-{{A}}st Dec {{B}}={{B}}年3月{{A}}日
-{{A}}rd Dec {{B}}={{B}}年3月{{A}}日
-{{A}}nd Dec {{B}}={{B}}年3月{{A}}日
-{{A}}th Dec {{B}}={{B}}年3月{{A}}日
+
+sr:(?<day>[0-9]+)[a-z][a-z] (?<month>[A-Z][a-z]*) (?<year>[0-9]{4})=${year}年${month}月${day}日
+
+sr:<size\=75%>(?<month>[\w]+) (?<day>[0-9]*)(?<shit>[\w][\w]), (?<year>[0-9]{4})</size>\nWispy condensation trails cross the sky; the ghosts of passing trains.=<size\=75%>${year}年${month}月${day}日</size>\n微弱的凝结痕迹划过天空；过往列车的幽灵。
+
+March=3
+Mar=3
+
+
+
+{{A}} Iron={{A}}钢铁
+{{A}} Veils={{A}}面纱
+{{A}} Hearts={{A}}红心
+{{A}} Mirrors={{A}}镜子
++{{A}} Affiliation: Villainy=+{{A}}隶属。卑鄙小人
+{{A}} Fermented={{A}} 发酵
+{{A}} Flickering={{A}} 闪烁

@@ -3,7 +3,7 @@ The Sky=天空
 You have moved to a new area=你已经移动到一个新的地区
 Titania=狄坦妮娅
 L&S Nature Reserve=L&S自然保留地
-"The clamouring central station of New Winchester. A place of steam and smut and thundering iron. Here, you can find people willing to pay for a skilled captain's service."=新温彻斯特中央车站人声鼎沸，到处是蒸汽、灰烟与轰鸣着的钢铁。在这里，总是有人愿意雇用一位老练的车长。
+The clamouring central station of New Winchester. A place of steam and smut and thundering iron. Here, you can find people willing to pay for a skilled captain's service.=新温彻斯特中央车站人声鼎沸，到处是蒸汽、灰烟与轰鸣着的钢铁。在这里，总是有人愿意雇用一位老练的车长。
 Wolvesey Station=伍夫斯托克站
 "This peaceful, carmine institution was founded by devils from London and dedicated to the betterment of the soul. Botheridge's 'A Tour of Heaven' describes it as 'a cross between a spa, a sanatorium and purgatory'. She commends its bracing airs."="伦敦的魔鬼建立了这个安宁的胭脂色机构，以致力于改善灵魂的状况。博瑟里奇的《天堂之旅》称它“介于温泉、疗养院与炼狱之间”=还称赞了这里提神醒脑的空气。"
 Carillon Centre=钟琴区中心

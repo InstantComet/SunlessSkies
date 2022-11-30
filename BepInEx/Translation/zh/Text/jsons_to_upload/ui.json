@@ -437,12 +437,12 @@
   {
     "key": "ui88",
     "original": "Hold",
-    "translation": "保持"
+    "translation": "货舱"
   },
   {
     "key": "ui89",
     "original": "Hull",
-    "translation": "壳"
+    "translation": "车体"
   },
   {
     "key": "ui90",
@@ -472,7 +472,7 @@
   {
     "key": "ui95",
     "original": "Journal [J]",
-    "translation": "期刊[J]。"
+    "translation": "日志[J]。"
   },
   {
     "key": "ui96",
@@ -482,7 +482,7 @@
   {
     "key": "ui97",
     "original": "Chart [Tab]",
-    "translation": "图表 [Tab]"
+    "translation": "地图[Tab]"
   },
   {
     "key": "ui98",
@@ -947,7 +947,7 @@
   {
     "key": "ui190",
     "original": "The Journal",
-    "translation": "杂志"
+    "translation": "日志"
   },
   {
     "key": "ui191",
@@ -1017,7 +1017,7 @@
   {
     "key": "ui204",
     "original": "Possessions",
-    "translation": "财产"
+    "translation": "资产"
   },
   {
     "key": "ui205",
@@ -1835,9 +1835,14 @@
     "translation": "<size\\=75%>3月 15th, 1905</size>\\n遥远的车场的喧嚣声。窗户上的烟雾堆积如山。"
   },
   {
+    "key": "ui368",
+    "original": "An occurrence! Your 'Hull' Quality is now {{A}}!",
+    "translation": "发生了!你的 \"船体 \"质量现在是{{A}}!"
+  },
+  {
     "key": "ui369",
-    "original": "You unlocked this with 82 <b>Sovereigns</b> <i>(you needed 30)</i>",
-    "translation": "你用82解锁了这个 <b>金镑</b> <i>(你需要30)</i>"
+    "original": "You unlocked this with {{A}} <b>Sovereigns</b> <i>(you needed {{B}})</i>",
+    "translation": "你用{{A}}解锁了这个 <b>金镑</b> <i>(你需要{{B}})</i>"
   },
   {
     "key": "ui370",
@@ -1862,17 +1867,17 @@
   {
     "key": "ui374",
     "original": "Horror",
-    "translation": "恐惧"
+    "translation": "惊骇"
   },
   {
     "key": "ui375",
     "original": "Wonder",
-    "translation": "奇迹"
+    "translation": "奇观"
   },
   {
     "key": "ui376",
     "original": "Platform",
-    "translation": "平台"
+    "translation": "月台"
   },
   {
     "key": "ui377",
@@ -1888,5 +1893,90 @@
     "key": "ui379",
     "original": "Legend",
     "translation": "传说"
+  },
+  {
+    "key": "ui380",
+    "original": "Something to Crave",
+    "translation": "渴慕"
+  },
+  {
+    "key": "ui381",
+    "original": "Something that Glisters",
+    "translation": "财富"
+  },
+  {
+    "key": "ui382",
+    "original": "Something Grave",
+    "translation": "肃穆"
+  },
+  {
+    "key": "ui383",
+    "original": "Something Ghastly",
+    "translation": "诡怖"
+  },
+  {
+    "key": "ui384",
+    "original": "An occurrence! Your 'Hull' Quality is now {{A}}!",
+    "translation": "发生了!你的 \"船体 \"质量现在是{{A}}!"
+  },
+  {
+    "key": "ui385",
+    "original": "You need an <b>Uncanny Specimen</b>",
+    "translation": "你需要一个 <b>不思议的标本</b>"
+  },
+  {
+    "key": "ui386",
+    "original": "You need <b>Affiliation: Academe</b>",
+    "translation": "你需要 <b>隶属关系。学术界</b>"
+  },
+  {
+    "key": "ui387",
+    "original": "You need {{A}} <b>Sovereigns</b> <i>(you have {{B}})</i>",
+    "translation": "你需要{{A}} <b>金镑</b> <i>(你有{{B}})</i>"
+  },
+  {
+    "key": "ui388",
+    "original": "You need <b>Affiliation: Villainy</b> {{A}}<i> (you have {{B}})</i>",
+    "translation": "你需要 <b>隶属关系。恶棍</b> {{A}}<i> (你有{{B}})</i>"
+  },
+  {
+    "key": "ui389",
+    "original": "You need a <b>Savage Secret</b>",
+    "translation": "你需要一个 <b>野蛮的秘密</b>"
+  },
+  {
+    "key": "ui390",
+    "original": "Remove",
+    "translation": "移除"
+  },
+  {
+    "key": "ui391",
+    "original": "Replace",
+    "translation": "替换"
+  },
+  {
+    "key": "ui392",
+    "original": "r:Press a key to assign it to ([A-Z][a-z]*) ([A-Z][a-z]*). Modifier keys may also be used. To assign a modifier key alone, hold it down for {{A}} second.",
+    "translation": "请按下要分配的按键，也可以使用修饰键。要单独指定一个修饰键，请按住该键{{A}}秒。"
+  },
+  {
+    "key": "ui393",
+    "original": "Add",
+    "translation": "添加"
+  },
+  {
+    "key": "ui394",
+    "original": "L is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
+    "translation": "L已经在使用了。你想替换它吗？你也可以选择无论如何都要添加这个任务。"
+  },
+  {
+    "key": "ui395",
+    "original": "Assignment Conflict",
+    "translation": "任务冲突"
+  },
+  {
+    "key": "ui396",
+    "original": "O is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
+    "translation": "O已经在使用了。你想替换它吗？你也可以选择无论如何都要添加该任务。"
   }
 ]
