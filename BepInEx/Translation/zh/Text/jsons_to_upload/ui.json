@@ -1696,266 +1696,256 @@
   },
   {
     "key": "ui340",
-    "original": "<size\\=75%>March 15th, 1905</size>\\nYour scout relays its findings.",
-    "translation": "<size\\=75%>3月 15th, 1905</size>\\n你的侦察员报告了它的发现。"
-  },
-  {
-    "key": "ui341",
     "original": "{{A}} crates in hold. \\n{{B}}% remaining in current crate.",
     "translation": "{{A}}板条箱的持有量。 \\n当前板条箱中剩余的{{B}}%。"
   },
   {
-    "key": "ui342",
+    "key": "ui341",
     "original": "Supplies",
     "translation": "补给"
   },
   {
-    "key": "ui343",
+    "key": "ui342",
     "original": "On long journeys, activate your locomotive's cruise control. ",
     "translation": "在长途旅行中，启动你的机车的巡航控制。"
   },
   {
-    "key": "ui344",
+    "key": "ui343",
     "original": "A wreck drifts here, less fortunate even than you. \"We should scavenge her for repairs,\" a crewman suggests.",
     "translation": "一艘残骸漂浮在这里，甚至比你更不幸。\"我们应该把它捡起来修理，\"一个船员建议。"
   },
   {
-    "key": "ui345",
+    "key": "ui344",
     "original": "As First Officer, the crew look to you. The nearest station is New Winchester. Can you get the <i>Orphean</i> there safely?",
     "translation": "作为大副，船员们都指望着你。最近的站点是新温彻斯特。你能不能把 <i>俄耳甫斯号</i> 在那里安全吗？"
   },
   {
-    "key": "ui346",
+    "key": "ui345",
     "original": "You have returned to the Reach: an untamed, sunless span of the heavens. London's new frontier. A celestial garden run wild.",
     "translation": "你已经回到了外野：一个未被驯服的、没有阳光的天际。伦敦的新边疆。一个疯狂的天体花园。"
   },
   {
-    "key": "ui347",
+    "key": "ui346",
     "original": "Your journey back from the Blue Kingdom was tumultuous. Your locomotive is damaged, and Captain Whitlock badly wounded.",
     "translation": "你从蓝色王国回来的旅程是动荡不安的。你们的机车损坏了，惠特洛克上尉受了重伤。"
   },
   {
-    "key": "ui348",
+    "key": "ui347",
     "original": "Press        to send out your scout\\n(costs Supplies)",
     "translation": "按送出你的童子军\\n(花费物资)"
   },
   {
-    "key": "ui349",
-    "original": "<size\\=75%>March 16th, 1905</size>\\nMuch to the relief of your stokers, you find a barrel of fuel among the detritus.",
-    "translation": "<size\\=75%>3月 16th, 1905</size>\\n令你的火力手们松了一口气的是，你在碎石中发现了一桶燃料。"
-  },
-  {
-    "key": "ui350",
+    "key": "ui348",
     "original": "Captain Whitlock's Legacy",
     "translation": "惠特洛克船长的遗产"
   },
   {
-    "key": "ui351",
+    "key": "ui349",
     "original": "Before you leave New Winchester, it may be prudent to buy more Supplies. You can buy them at the Victoria Market. To visit the market, select it from the menu that appears to the left of the main panel. Here, you can swap between Shops and Stories.",
     "translation": "在你离开新温彻斯特之前，为谨慎起见，你可能要购买更多物资。你可以在维多利亚市场买到它们。要访问市场，请从主面板左边的菜单中选择它。在这里，你可以在商店和故事之间互换。"
   },
   {
-    "key": "ui352",
+    "key": "ui350",
     "original": "Provisioning",
     "translation": "供应"
   },
   {
-    "key": "ui353",
+    "key": "ui351",
     "original": "In addition to your ordinary crew, you now have an officer, or perhaps a mascot. Officers must be appointed before you can benefit from their skills, abilities, or animal charisma. The first officer you recruit for each role will automatically be appointed. To change officers, open the Officers panel while in port.",
     "translation": "除了你的普通船员之外，你现在还有一个车务官，或者说是一个吉祥物。在你能从他们的技能、能力或动物魅力中获益之前，必须先任命车务官。你为每个角色招募的第一个军官将被自动任命。要更换军官，在港口时打开军官面板。"
   },
   {
-    "key": "ui354",
+    "key": "ui352",
     "original": "Officers and Mascots",
     "translation": "车务官和吉祥物"
   },
   {
-    "key": "ui355",
+    "key": "ui353",
     "original": "You've gained {{A}} x Sovereigns (new total {{B}}).",
     "translation": "你已经获得了{{A}} x 金镑（现在有{{B}}）。"
   },
   {
-    "key": "ui356",
+    "key": "ui354",
     "original": "An occurrence! Your 'Crew' Quality is now {{A}}!",
     "translation": "发生了!你的 \"船员 \"质量现在是{{A}}!"
   },
   {
-    "key": "ui357",
+    "key": "ui355",
     "original": "You now have {{A}} x Cryptic Benefactor",
     "translation": "你现在有了{{A}} x Cryptic Benefactor"
   },
   {
-    "key": "ui358",
+    "key": "ui356",
     "original": "More advanced engines enable Full Steam Mode, allowing you to go faster at an extra cost in fuel.",
     "translation": "更先进的发动机可以启用全蒸汽模式，让你在付出额外的燃料成本的情况下走得更快。"
   },
   {
-    "key": "ui359",
+    "key": "ui357",
     "original": "The sun of Eleutheria has turned against its peers and plunged its domains into lawless night.",
     "translation": "Eleutheria的太阳与它的同龄人背道而驰，使它的领地陷入无法无天的夜晚。"
   },
   {
-    "key": "ui360",
+    "key": "ui358",
     "original": "Look out for Horrors, which cause Terror to rise more quickly, and Wonders, which reduce it.",
     "translation": "注意 \"恐怖 \"和 \"奇迹\"。\"恐怖 \"会使 \"恐怖 \"上升得更快，\"奇迹 \"会使 \"恐怖 \"下降。"
   },
   {
-    "key": "ui361",
+    "key": "ui359",
     "original": "Experience gained from discovering landmarks is passed on to all your future captains.",
     "translation": "从发现地标中获得的经验会传给你所有未来的船长。"
   },
   {
-    "key": "ui362",
+    "key": "ui360",
     "original": "You've gained {{A}} x Fuel (new total {{B}}).",
     "translation": "你已经获得了{{A}} x 燃料（现在有{{B}}）。"
   },
   {
-    "key": "ui363",
+    "key": "ui361",
     "original": "Enemies that ram can be persuaded to crash into terrain, or even other enemies.",
     "translation": "冲撞的敌人可以被劝说撞向地形，甚至是其他敌人。"
   },
   {
-    "key": "ui364",
+    "key": "ui362",
     "original": "The Hillcrest Lodge",
     "translation": "希尔克雷斯特山庄"
   },
   {
-    "key": "ui365",
+    "key": "ui363",
     "original": "An occurrence! Your 'Hull' Quality is now {{A}}!",
     "translation": "发生了!你的 \"船体 \"质量现在是{{A}}!"
   },
   {
-    "key": "ui366",
+    "key": "ui364",
     "original": "You unlocked this with {{A}} <b>Sovereigns</b> <i>(you needed {{B}})</i>",
     "translation": "你用{{A}}解锁了这个 <b>金镑</b> <i>(你需要{{B}})</i>"
   },
   {
-    "key": "ui367",
+    "key": "ui365",
     "original": "Speed up <sprite name\\=\"key_w\">    Back <sprite name\\=\"key_esc\">",
     "translation": "加速 <sprite name\\=\"key_w\">    返回 <sprite name\\=\"key_esc\">"
   },
   {
-    "key": "ui368",
+    "key": "ui366",
     "original": "Hide\\nAdvice",
     "translation": "隐藏建议"
   },
   {
-    "key": "ui369",
+    "key": "ui367",
     "original": "Disable\\nAdvice",
     "translation": "禁用建议"
   },
   {
-    "key": "ui370",
+    "key": "ui368",
     "original": "Horror",
     "translation": "惊骇"
   },
   {
-    "key": "ui371",
+    "key": "ui369",
     "original": "Wonder",
     "translation": "奇观"
   },
   {
-    "key": "ui372",
+    "key": "ui370",
     "original": "Platform",
     "translation": "月台"
   },
   {
-    "key": "ui373",
+    "key": "ui371",
     "original": "Station",
     "translation": "车站"
   },
   {
-    "key": "ui374",
+    "key": "ui372",
     "original": "Current Location",
     "translation": "当前位置"
   },
   {
-    "key": "ui375",
+    "key": "ui373",
     "original": "Legend",
     "translation": "传说"
   },
   {
-    "key": "ui376",
+    "key": "ui374",
     "original": "Something to Crave",
     "translation": "渴慕"
   },
   {
-    "key": "ui377",
+    "key": "ui375",
     "original": "Something that Glisters",
     "translation": "财富"
   },
   {
-    "key": "ui378",
+    "key": "ui376",
     "original": "Something Grave",
     "translation": "肃穆"
   },
   {
-    "key": "ui379",
+    "key": "ui377",
     "original": "Something Ghastly",
     "translation": "诡怖"
   },
   {
-    "key": "ui380",
+    "key": "ui378",
     "original": "An occurrence! Your 'Hull' Quality is now {{A}}!",
     "translation": "发生了!你的 \"船体 \"质量现在是{{A}}!"
   },
   {
-    "key": "ui381",
+    "key": "ui379",
     "original": "You need an <b>Uncanny Specimen</b>",
     "translation": "你需要一个 <b>不思议的标本</b>"
   },
   {
-    "key": "ui382",
+    "key": "ui380",
     "original": "You need <b>Affiliation: Academe</b>",
     "translation": "你需要 <b>隶属关系。学术界</b>"
   },
   {
-    "key": "ui383",
+    "key": "ui381",
     "original": "You need {{A}} <b>Sovereigns</b> <i>(you have {{B}})</i>",
     "translation": "你需要{{A}} <b>金镑</b> <i>(你有{{B}})</i>"
   },
   {
-    "key": "ui384",
+    "key": "ui382",
     "original": "You need <b>Affiliation: Villainy</b> {{A}}<i> (you have {{B}})</i>",
     "translation": "你需要 <b>隶属关系。恶棍</b> {{A}}<i> (你有{{B}})</i>"
   },
   {
-    "key": "ui385",
+    "key": "ui383",
     "original": "You need a <b>Savage Secret</b>",
     "translation": "你需要一个 <b>野蛮的秘密</b>"
   },
   {
-    "key": "ui386",
+    "key": "ui384",
     "original": "Remove",
     "translation": "移除"
   },
   {
-    "key": "ui387",
+    "key": "ui385",
     "original": "Replace",
     "translation": "替换"
   },
   {
-    "key": "ui388",
+    "key": "ui386",
     "original": "r:Press a key to assign it to ([A-Z][a-z]*) ([A-Z][a-z]*). Modifier keys may also be used. To assign a modifier key alone, hold it down for {{A}} second.",
     "translation": "请按下要分配的按键，也可以使用修饰键。要单独指定一个修饰键，请按住该键{{A}}秒。"
   },
   {
-    "key": "ui389",
+    "key": "ui387",
     "original": "Add",
     "translation": "添加"
   },
   {
-    "key": "ui390",
+    "key": "ui388",
     "original": "L is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
     "translation": "L已经在使用了。你想替换它吗？你也可以选择无论如何都要添加这个任务。"
   },
   {
-    "key": "ui391",
+    "key": "ui389",
     "original": "Assignment Conflict",
     "translation": "任务冲突"
   },
   {
-    "key": "ui392",
+    "key": "ui390",
     "original": "O is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
     "translation": "O已经在使用了。你想替换它吗？你也可以选择无论如何都要添加该任务。"
   }

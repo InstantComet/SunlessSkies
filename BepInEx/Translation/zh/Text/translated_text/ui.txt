@@ -337,7 +337,6 @@ Discovering a new port for the first time will reduce your Terror. =第一次发
 You've gained {{A}} x Terror (new total {{B}}).=你已经获得了{{A}} x Terror（现在有{{B}}）。
 You've gained {{A}} x Supplies (new total {{B}}).=你已经获得了{{A}} x 补给（现在有{{B}}）。
 You've lost {{A}} x Hull (new total {{B}}).=你已经失去了{{A}} x Hull（现在有数{{B}}）。
-<size\=75%>March 15th, 1905</size>\nYour scout relays its findings.=<size\=75%>3月 15th, 1905</size>\n你的侦察员报告了它的发现。
 {{A}} crates in hold. \n{{B}}% remaining in current crate.={{A}}板条箱的持有量。 \n当前板条箱中剩余的{{B}}%。
 Supplies=补给
 On long journeys, activate your locomotive's cruise control. =在长途旅行中，启动你的机车的巡航控制。 
@@ -346,7 +345,6 @@ As First Officer, the crew look to you. The nearest station is New Winchester. C
 You have returned to the Reach: an untamed, sunless span of the heavens. London's new frontier. A celestial garden run wild.=你已经回到了外野：一个未被驯服的、没有阳光的天际。伦敦的新边疆。一个疯狂的天体花园。
 Your journey back from the Blue Kingdom was tumultuous. Your locomotive is damaged, and Captain Whitlock badly wounded.=你从蓝色王国回来的旅程是动荡不安的。你们的机车损坏了，惠特洛克上尉受了重伤。
 Press        to send out your scout\n(costs Supplies)=按送出你的童子军\n(花费物资)
-<size\=75%>March 16th, 1905</size>\nMuch to the relief of your stokers, you find a barrel of fuel among the detritus.=<size\=75%>3月 16th, 1905</size>\n令你的火力手们松了一口气的是，你在碎石中发现了一桶燃料。
 Captain Whitlock's Legacy=惠特洛克船长的遗产
 Before you leave New Winchester, it may be prudent to buy more Supplies. You can buy them at the Victoria Market. To visit the market, select it from the menu that appears to the left of the main panel. Here, you can swap between Shops and Stories.=在你离开新温彻斯特之前，为谨慎起见，你可能要购买更多物资。你可以在维多利亚市场买到它们。要访问市场，请从主面板左边的菜单中选择它。在这里，你可以在商店和故事之间互换。
 Provisioning=供应
@@ -390,3 +388,5 @@ Add=添加
 L is already in use. Do you want to replace it? You may also choose to add the assignment anyway.=L已经在使用了。你想替换它吗？你也可以选择无论如何都要添加这个任务。
 Assignment Conflict=任务冲突
 O is already in use. Do you want to replace it? You may also choose to add the assignment anyway.=O已经在使用了。你想替换它吗？你也可以选择无论如何都要添加该任务。
+No=否
+Yes=是
