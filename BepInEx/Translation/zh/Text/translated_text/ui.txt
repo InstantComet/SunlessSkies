@@ -319,3 +319,61 @@ You remember bats winging across the still, black sea. The distant lights of Lon
 You were a zee-captain.=你曾是一个Zee-captain。
 The more Crew you have, the more Supplies you consume.=你拥有的船员越多，你消耗的物资就越多。
 Your hull is a little worse for wear. Try to repair it soon. You can do this for a small fee at New Winchester and certain other ports, or, sometimes, by salvaging from the wrecks of your opponents.=你的船体有点破损了。试着尽快修复它。你可以在新温彻斯特和其他某些港口花点钱做这件事，或者，有时候，从你的对手的残骸中打捞。
+[<#FFD27C>R</color>] Undock=[<#FFD27C>R</color>]离站
+Your scout has discovered something! To see what it is, open your chart.=你的侦察员发现了一些东西!要看它是什么，请打开你的图表。
+Scouts=童子军
+[<#FFD27C>R</color>] Loot=[<#FFD27C>R</color>]战利品
+Hull Damage=车体损坏
+You now have {{A}} x Sovereigns=你现在有了{{A}} x 金镑
+You've lost {{A}} x Sovereigns (new total {{B}}).=你失去了{{A}} x 金镑（现在有{{B}}）。
+You've gained {{A}} x Hull (new total {{B}}).=你已经获得了{{A}} x Hull（现在有{{B}}）。
+You now have {{A}} x Supplies=你现在有了{{A}} x用品
+You now have {{A}} x Diffident Bat=你现在有了{{A}} x Diffident Bat
+You now have {{A}} x Cotterell & Hathersage 'Jerusalem'=你现在有了{{A}} x Cotterell & Hathersage 'Jerusalem'。
+<i>Another crewmember, lost...</i>=<i>另一名船员，失去了...</i>
+You've lost {{A}} x Crew (new total {{B}}).=你已经失去了{{A}} x Crew（现在有数{{B}}）。
+Discovering a new port for the first time will reduce your Terror. =第一次发现一个新的港口会减少你的恐怖。 
+{{A}} Experience Gained=积累的{{A}}经验
+You've gained {{A}} x Terror (new total {{B}}).=你已经获得了{{A}} x Terror（现在有{{B}}）。
+You've gained {{A}} x Supplies (new total {{B}}).=你已经获得了{{A}} x 补给（现在有{{B}}）。
+You've lost {{A}} x Hull (new total {{B}}).=你已经失去了{{A}} x Hull（现在有数{{B}}）。
+<size\=75%>March 15th, 1905</size>\nYour scout relays its findings.=<size\=75%>3月 15th, 1905</size>\n你的侦察员报告了它的发现。
+{{A}} crates in hold. \n{{B}}% remaining in current crate.={{A}}板条箱的持有量。 \n当前板条箱中剩余的{{B}}%。
+Supplies=补给
+On long journeys, activate your locomotive's cruise control. =在长途旅行中，启动你的机车的巡航控制。 
+A wreck drifts here, less fortunate even than you. "We should scavenge her for repairs," a crewman suggests.=一艘残骸漂浮在这里，甚至比你更不幸。"我们应该把它捡起来修理，"一个船员建议。
+As First Officer, the crew look to you. The nearest station is New Winchester. Can you get the <i>Orphean</i> there safely?=作为大副，船员们都指望着你。最近的站点是新温彻斯特。你能不能把 <i>俄耳甫斯号</i> 在那里安全吗？
+You have returned to the Reach: an untamed, sunless span of the heavens. London's new frontier. A celestial garden run wild.=你已经回到了外野：一个未被驯服的、没有阳光的天际。伦敦的新边疆。一个疯狂的天体花园。
+Your journey back from the Blue Kingdom was tumultuous. Your locomotive is damaged, and Captain Whitlock badly wounded.=你从蓝色王国回来的旅程是动荡不安的。你们的机车损坏了，惠特洛克上尉受了重伤。
+Press        to send out your scout\n(costs Supplies)=按送出你的童子军\n(花费物资)
+<size\=75%>March 16th, 1905</size>\nMuch to the relief of your stokers, you find a barrel of fuel among the detritus.=<size\=75%>3月 16th, 1905</size>\n令你的火力手们松了一口气的是，你在碎石中发现了一桶燃料。
+Captain Whitlock's Legacy=惠特洛克船长的遗产
+Before you leave New Winchester, it may be prudent to buy more Supplies. You can buy them at the Victoria Market. To visit the market, select it from the menu that appears to the left of the main panel. Here, you can swap between Shops and Stories.=在你离开新温彻斯特之前，为谨慎起见，你可能要购买更多物资。你可以在维多利亚市场买到它们。要访问市场，请从主面板左边的菜单中选择它。在这里，你可以在商店和故事之间互换。
+Provisioning=供应
+In addition to your ordinary crew, you now have an officer, or perhaps a mascot. Officers must be appointed before you can benefit from their skills, abilities, or animal charisma. The first officer you recruit for each role will automatically be appointed. To change officers, open the Officers panel while in port.=除了你的普通船员之外，你现在还有一个车务官，或者说是一个吉祥物。在你能从他们的技能、能力或动物魅力中获益之前，必须先任命车务官。你为每个角色招募的第一个军官将被自动任命。要更换军官，在港口时打开军官面板。
+Officers and Mascots=车务官和吉祥物
+You've gained {{A}} x Sovereigns (new total {{B}}).=你已经获得了{{A}} x 金镑（现在有{{B}}）。
+An occurrence! Your 'Crew' Quality is now {{A}}!=发生了!你的 "船员 "质量现在是{{A}}!
+You now have {{A}} x Cryptic Benefactor=你现在有了{{A}} x Cryptic Benefactor
+More advanced engines enable Full Steam Mode, allowing you to go faster at an extra cost in fuel.=更先进的发动机可以启用全蒸汽模式，让你在付出额外的燃料成本的情况下走得更快。
+The sun of Eleutheria has turned against its peers and plunged its domains into lawless night.=Eleutheria的太阳与它的同龄人背道而驰，使它的领地陷入无法无天的夜晚。
+Look out for Horrors, which cause Terror to rise more quickly, and Wonders, which reduce it.=注意 "恐怖 "和 "奇迹"。"恐怖 "会使 "恐怖 "上升得更快，"奇迹 "会使 "恐怖 "下降。
+<size\=75%>March 16th, 1905</size>\nThe taste of smog. The sound of iron on iron. We are home.=<size\=75%>3月 16th, 1905</size>\n雾霾的味道。铁与铁的声音。我们到家了。
+<size\=75%>March 17th, 1905</size>\n"There's the dock, captain," a signaller declares. The crew are relieved at the thought of solid land.=<size\=75%>3月 17th, 1905</size>\n"船长，码头在那里，"一个信号员宣布。一想到坚实的陆地，船员们都松了一口气。
+Experience gained from discovering landmarks is passed on to all your future captains.=从发现地标中获得的经验会传给你所有未来的船长。
+You've gained {{A}} x Fuel (new total {{B}}).=你已经获得了{{A}} x 燃料（现在有{{B}}）。
+Enemies that ram can be persuaded to crash into terrain, or even other enemies.=冲撞的敌人可以被劝说撞向地形，甚至是其他敌人。
+The Hillcrest Lodge=希尔克雷斯特山庄
+<size\=75%>March 15th, 1905</size>\nA distant clamour of engine-yards. An accretion of smog on the windows.=<size\=75%>3月 15th, 1905</size>\n遥远的车场的喧嚣声。窗户上的烟雾堆积如山。
+An occurrence! Your 'Hull' Quality is now {{A}}!=发生了!你的 "船体 "质量现在是{{A}}!You unlocked this with 82 <b>Sovereigns</b> <i>(you needed 30)</i>=你用82解锁了这个 <b>金镑</b> <i>(你需要30)</i>
+You unlocked this with 82 <b>Sovereigns</b> <i>(you needed 30)</i>=你用82解锁了这个 <b>金镑</b> <i>(你需要30)</i>
+Speed up <sprite name\="key_w">    Back <sprite name\="key_esc">=加速 <sprite name\="key_w">    返回 <sprite name\="key_esc">
+Hide\nAdvice=隐藏建议
+Disable\nAdvice=禁用建议
+<size\=75%>March 15th, 1905</size>\nWispy condensation trails cross the sky; the ghosts of passing trains.=<size\=75%>3月 15th, 1905</size>\n微弱的凝结痕迹划过天空；过往列车的幽灵。
+Horror=恐惧
+Wonder=奇迹
+Platform=平台
+Station=车站
+Current Location=当前位置
+Legend=传说

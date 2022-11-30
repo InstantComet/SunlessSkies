@@ -138,7 +138,7 @@ The House of Days=时光之屋
 "A smattering of dark cottages at the White Well's edge. It is surrounded by endless rows of tumbled and broken statues, mere specks against the snow."=在白井边上有零星的黑暗小屋。它的周围是无尽的一排翻滚着的破碎的雕像，在雪地上只是一些斑点。
 Wellmouth=井口
 The Lyceum=学会
-"Thriving flowerbeds. Statues. Obsessively-trimmed grass. An ornamental lake, shining and perfectly circular, like a dropped shilling. These surround the glittering palace called the Shadow of the Sun.","繁荣的花坛。雕像。精心修剪过的草。一个装饰性的湖泊，闪亮而完美的圆形，像一个掉落的先令。这些都围绕着被称为 ""太阳之影 ""的闪亮的宫殿。"
+Thriving flowerbeds. Statues. Obsessively-trimmed grass. An ornamental lake, shining and perfectly circular, like a dropped shilling. These surround the glittering palace called the Shadow of the Sun.=繁荣的花坛。雕像。精心修剪过的草。一个装饰性的湖泊，闪亮而完美的圆形，像一个掉落的先令。这些都围绕着被称为 "太阳之影 "的闪亮的宫殿。
 The Shadow of the Sun=日影殿
 "A coalition of smugglers, bound by crimson oaths of silence."=一个为绯红缄默之誓所约束的走私者联盟。
 The Gentlemen=绅士会
