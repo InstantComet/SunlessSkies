@@ -1,0 +1,5 @@
+sr:<size\=75%>(?<month>[\w]+) (?<day>[0-9]*)(?<shit>[\w][\w]), (?<year>[0-9]{4})</size>\nWispy condensation trails cross the sky; the ghosts of passing trains.=<size\=75%>${year}年${month}月${day}日</size>\n微弱的凝结痕迹划过天空；过往列车的幽灵。
+<size\=75%>March 16th, 1905</size>\nThe taste of smog. The sound of iron on iron. We are home.=<size\=75%>3月 16th, 1905</size>\n雾霾的味道。铁与铁的声音。我们到家了。
+<size\=75%>March 17th, 1905</size>\n"There's the dock, captain," a signaller declares. The crew are relieved at the thought of solid land.=<size\=75%>3月 17th, 1905</size>\n"船长，码头在那里，"一个信号员宣布。一想到坚实的陆地，船员们都松了一口气。
+<size\=75%>March 15th, 1905</size>\nA distant clamour of engine-yards. An accretion of smog on the windows.=<size\=75%>3月 15th, 1905</size>\n遥远的车场的喧嚣声。窗户上的烟雾堆积如山。
+<size\=75%>March 15th, 1905</size>\nWispy condensation trails cross the sky; the ghosts of passing trains.=<size\=75%>3月 15th, 1905</size>\n微弱的凝结痕迹划过天空；过往列车的幽灵。

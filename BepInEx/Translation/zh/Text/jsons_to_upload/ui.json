@@ -1801,181 +1801,161 @@
   },
   {
     "key": "ui361",
-    "original": "<size\\=75%>March 16th, 1905</size>\\nThe taste of smog. The sound of iron on iron. We are home.",
-    "translation": "<size\\=75%>3月 16th, 1905</size>\\n雾霾的味道。铁与铁的声音。我们到家了。"
-  },
-  {
-    "key": "ui362",
-    "original": "<size\\=75%>March 17th, 1905</size>\\n\"There's the dock, captain,\" a signaller declares. The crew are relieved at the thought of solid land.",
-    "translation": "<size\\=75%>3月 17th, 1905</size>\\n\"船长，码头在那里，\"一个信号员宣布。一想到坚实的陆地，船员们都松了一口气。"
-  },
-  {
-    "key": "ui363",
     "original": "Experience gained from discovering landmarks is passed on to all your future captains.",
     "translation": "从发现地标中获得的经验会传给你所有未来的船长。"
   },
   {
-    "key": "ui364",
+    "key": "ui362",
     "original": "You've gained {{A}} x Fuel (new total {{B}}).",
     "translation": "你已经获得了{{A}} x 燃料（现在有{{B}}）。"
   },
   {
-    "key": "ui365",
+    "key": "ui363",
     "original": "Enemies that ram can be persuaded to crash into terrain, or even other enemies.",
     "translation": "冲撞的敌人可以被劝说撞向地形，甚至是其他敌人。"
   },
   {
-    "key": "ui366",
+    "key": "ui364",
     "original": "The Hillcrest Lodge",
     "translation": "希尔克雷斯特山庄"
   },
   {
-    "key": "ui367",
-    "original": "<size\\=75%>March 15th, 1905</size>\\nA distant clamour of engine-yards. An accretion of smog on the windows.",
-    "translation": "<size\\=75%>3月 15th, 1905</size>\\n遥远的车场的喧嚣声。窗户上的烟雾堆积如山。"
-  },
-  {
-    "key": "ui368",
+    "key": "ui365",
     "original": "An occurrence! Your 'Hull' Quality is now {{A}}!",
     "translation": "发生了!你的 \"船体 \"质量现在是{{A}}!"
   },
   {
-    "key": "ui369",
+    "key": "ui366",
     "original": "You unlocked this with {{A}} <b>Sovereigns</b> <i>(you needed {{B}})</i>",
     "translation": "你用{{A}}解锁了这个 <b>金镑</b> <i>(你需要{{B}})</i>"
   },
   {
-    "key": "ui370",
+    "key": "ui367",
     "original": "Speed up <sprite name\\=\"key_w\">    Back <sprite name\\=\"key_esc\">",
     "translation": "加速 <sprite name\\=\"key_w\">    返回 <sprite name\\=\"key_esc\">"
   },
   {
-    "key": "ui371",
+    "key": "ui368",
     "original": "Hide\\nAdvice",
     "translation": "隐藏建议"
   },
   {
-    "key": "ui372",
+    "key": "ui369",
     "original": "Disable\\nAdvice",
     "translation": "禁用建议"
   },
   {
-    "key": "ui373",
-    "original": "<size\\=75%>March 15th, 1905</size>\\nWispy condensation trails cross the sky; the ghosts of passing trains.",
-    "translation": "<size\\=75%>3月 15th, 1905</size>\\n微弱的凝结痕迹划过天空；过往列车的幽灵。"
-  },
-  {
-    "key": "ui374",
+    "key": "ui370",
     "original": "Horror",
     "translation": "惊骇"
   },
   {
-    "key": "ui375",
+    "key": "ui371",
     "original": "Wonder",
     "translation": "奇观"
   },
   {
-    "key": "ui376",
+    "key": "ui372",
     "original": "Platform",
     "translation": "月台"
   },
   {
-    "key": "ui377",
+    "key": "ui373",
     "original": "Station",
     "translation": "车站"
   },
   {
-    "key": "ui378",
+    "key": "ui374",
     "original": "Current Location",
     "translation": "当前位置"
   },
   {
-    "key": "ui379",
+    "key": "ui375",
     "original": "Legend",
     "translation": "传说"
   },
   {
-    "key": "ui380",
+    "key": "ui376",
     "original": "Something to Crave",
     "translation": "渴慕"
   },
   {
-    "key": "ui381",
+    "key": "ui377",
     "original": "Something that Glisters",
     "translation": "财富"
   },
   {
-    "key": "ui382",
+    "key": "ui378",
     "original": "Something Grave",
     "translation": "肃穆"
   },
   {
-    "key": "ui383",
+    "key": "ui379",
     "original": "Something Ghastly",
     "translation": "诡怖"
   },
   {
-    "key": "ui384",
+    "key": "ui380",
     "original": "An occurrence! Your 'Hull' Quality is now {{A}}!",
     "translation": "发生了!你的 \"船体 \"质量现在是{{A}}!"
   },
   {
-    "key": "ui385",
+    "key": "ui381",
     "original": "You need an <b>Uncanny Specimen</b>",
     "translation": "你需要一个 <b>不思议的标本</b>"
   },
   {
-    "key": "ui386",
+    "key": "ui382",
     "original": "You need <b>Affiliation: Academe</b>",
     "translation": "你需要 <b>隶属关系。学术界</b>"
   },
   {
-    "key": "ui387",
+    "key": "ui383",
     "original": "You need {{A}} <b>Sovereigns</b> <i>(you have {{B}})</i>",
     "translation": "你需要{{A}} <b>金镑</b> <i>(你有{{B}})</i>"
   },
   {
-    "key": "ui388",
+    "key": "ui384",
     "original": "You need <b>Affiliation: Villainy</b> {{A}}<i> (you have {{B}})</i>",
     "translation": "你需要 <b>隶属关系。恶棍</b> {{A}}<i> (你有{{B}})</i>"
   },
   {
-    "key": "ui389",
+    "key": "ui385",
     "original": "You need a <b>Savage Secret</b>",
     "translation": "你需要一个 <b>野蛮的秘密</b>"
   },
   {
-    "key": "ui390",
+    "key": "ui386",
     "original": "Remove",
     "translation": "移除"
   },
   {
-    "key": "ui391",
+    "key": "ui387",
     "original": "Replace",
     "translation": "替换"
   },
   {
-    "key": "ui392",
+    "key": "ui388",
     "original": "r:Press a key to assign it to ([A-Z][a-z]*) ([A-Z][a-z]*). Modifier keys may also be used. To assign a modifier key alone, hold it down for {{A}} second.",
     "translation": "请按下要分配的按键，也可以使用修饰键。要单独指定一个修饰键，请按住该键{{A}}秒。"
   },
   {
-    "key": "ui393",
+    "key": "ui389",
     "original": "Add",
     "translation": "添加"
   },
   {
-    "key": "ui394",
+    "key": "ui390",
     "original": "L is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
     "translation": "L已经在使用了。你想替换它吗？你也可以选择无论如何都要添加这个任务。"
   },
   {
-    "key": "ui395",
+    "key": "ui391",
     "original": "Assignment Conflict",
     "translation": "任务冲突"
   },
   {
-    "key": "ui396",
+    "key": "ui392",
     "original": "O is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
     "translation": "O已经在使用了。你想替换它吗？你也可以选择无论如何都要添加该任务。"
   }

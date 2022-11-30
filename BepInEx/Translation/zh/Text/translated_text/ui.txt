@@ -358,19 +358,15 @@ You now have {{A}} x Cryptic Benefactor=你现在有了{{A}} x Cryptic Benefacto
 More advanced engines enable Full Steam Mode, allowing you to go faster at an extra cost in fuel.=更先进的发动机可以启用全蒸汽模式，让你在付出额外的燃料成本的情况下走得更快。
 The sun of Eleutheria has turned against its peers and plunged its domains into lawless night.=Eleutheria的太阳与它的同龄人背道而驰，使它的领地陷入无法无天的夜晚。
 Look out for Horrors, which cause Terror to rise more quickly, and Wonders, which reduce it.=注意 "恐怖 "和 "奇迹"。"恐怖 "会使 "恐怖 "上升得更快，"奇迹 "会使 "恐怖 "下降。
-<size\=75%>March 16th, 1905</size>\nThe taste of smog. The sound of iron on iron. We are home.=<size\=75%>3月 16th, 1905</size>\n雾霾的味道。铁与铁的声音。我们到家了。
-<size\=75%>March 17th, 1905</size>\n"There's the dock, captain," a signaller declares. The crew are relieved at the thought of solid land.=<size\=75%>3月 17th, 1905</size>\n"船长，码头在那里，"一个信号员宣布。一想到坚实的陆地，船员们都松了一口气。
 Experience gained from discovering landmarks is passed on to all your future captains.=从发现地标中获得的经验会传给你所有未来的船长。
 You've gained {{A}} x Fuel (new total {{B}}).=你已经获得了{{A}} x 燃料（现在有{{B}}）。
 Enemies that ram can be persuaded to crash into terrain, or even other enemies.=冲撞的敌人可以被劝说撞向地形，甚至是其他敌人。
 The Hillcrest Lodge=希尔克雷斯特山庄
-<size\=75%>March 15th, 1905</size>\nA distant clamour of engine-yards. An accretion of smog on the windows.=<size\=75%>3月 15th, 1905</size>\n遥远的车场的喧嚣声。窗户上的烟雾堆积如山。
 An occurrence! Your 'Hull' Quality is now {{A}}!=发生了!你的 "船体 "质量现在是{{A}}!
 You unlocked this with {{A}} <b>Sovereigns</b> <i>(you needed {{B}})</i>=你用{{A}}解锁了这个 <b>金镑</b> <i>(你需要{{B}})</i>
 Speed up <sprite name\="key_w">    Back <sprite name\="key_esc">=加速 <sprite name\="key_w">    返回 <sprite name\="key_esc">
 Hide\nAdvice=隐藏建议
 Disable\nAdvice=禁用建议
-<size\=75%>March 15th, 1905</size>\nWispy condensation trails cross the sky; the ghosts of passing trains.=<size\=75%>3月 15th, 1905</size>\n微弱的凝结痕迹划过天空；过往列车的幽灵。
 Horror=惊骇
 Wonder=奇观
 Platform=月台
