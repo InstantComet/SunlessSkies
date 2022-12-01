@@ -190,7 +190,7 @@ Sky-Story=天空之城
 RETIRED Second Hand Sky-Stories for Titania,RETIRED 狄坦妮娅的二手天空故事
 A would-be playwright currently working backstage at the Great Theatre is looking for the perfect subject for his next 'masterpiece'. He needs <b>one Moment of Inspiration</b> to be delivered to him at <b>Titania</b>.,"一个目前在大剧院后台工作的未来剧作家正在为他的下一部 ""杰作 ""寻找完美的主题。他需要<b>一个灵感时刻</b>，在<b>狄坦妮娅</b>交给他。"
 Moments of Inspiration=鼓舞人心的时刻
-"'It is good to love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is well done.' (You can acquire these from Sweet Jane or the Toll-Tower.)",'多爱是好的，因为真正的力量就在这里，凡是多爱的人，就会有多大的表现，就能有多大的成就，在爱中所做的就是好的。(你可以从甜蜜的简或收费站获得这些东西）。
+'It is good to love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is well done.' (You can acquire these from Sweet Jane or the Toll-Tower.)='多爱是好的，因为真正的力量就在这里，多爱的人就多做，就能多成就，在爱中做的事就是好的。"（你可以从甜蜜的简或收费站获得这些。）
 momentofinspiration=灵感的时刻
 Moment of Inspiration=灵感的瞬间
 "The playwright is so delighted he almost kisses you. ""That's it. I know what I need to write about! Now, comedy or tragedy? Should there be singing?"""="剧作家非常高兴，几乎要吻你。""就是这样。我知道我需要写什么了!现在，喜剧还是悲剧？要不要有歌唱？"""

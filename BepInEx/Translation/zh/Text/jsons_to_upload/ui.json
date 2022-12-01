@@ -2,2389 +2,1956 @@
   {
     "key": "ui1",
     "original": "Perhaps Not",
-    "translation": "暂时不要",
-    "stage": 1
+    "translation": "暂时不要"
   },
   {
     "key": "ui2",
     "original": "New Game",
-    "translation": "新游戏",
-    "stage": 1
+    "translation": "新游戏"
   },
   {
     "key": "ui3",
     "original": "Narrative Issue",
-    "translation": "叙事问题",
-    "stage": 1
+    "translation": "叙事问题"
   },
   {
     "key": "ui4",
     "original": "Submit",
-    "translation": "提交",
-    "stage": 1
+    "translation": "提交"
   },
   {
     "key": "ui5",
     "original": "Description (optional)",
-    "translation": "描述（可选）",
-    "stage": 1
+    "translation": "描述（可选）"
   },
   {
     "key": "ui6",
     "original": "Category:",
-    "translation": "类别:",
-    "stage": 1
+    "translation": "类别:"
   },
   {
     "key": "ui7",
     "original": "Report a Bug",
-    "translation": "报告一个错误",
-    "stage": 1
+    "translation": "报告一个错误"
   },
   {
     "key": "ui8",
     "original": "Cancel",
-    "translation": "取消",
-    "stage": 1
+    "translation": "取消"
   },
   {
     "key": "ui9",
     "original": "Uploading... {{A}}%",
-    "translation": "上传... {{A}}%",
-    "stage": 1
+    "translation": "上传中... {{A}}%"
   },
   {
     "key": "ui10",
     "original": "Submitting Bug Report",
-    "translation": "提交错误报告",
-    "stage": 1
+    "translation": "提交错误报告"
   },
   {
     "key": "ui11",
     "original": "Paused",
-    "translation": "暂停使用",
-    "stage": 1
+    "translation": "暂停使用"
   },
   {
     "key": "ui12",
     "original": "Exit to Desktop",
-    "translation": "退出到桌面",
-    "stage": 1
+    "translation": "退出到桌面"
   },
   {
     "key": "ui13",
     "original": "Credits",
-    "translation": "制作人员",
-    "stage": 1
+    "translation": "制作人员"
   },
   {
     "key": "ui14",
     "original": "Options",
-    "translation": "选项",
-    "stage": 1
+    "translation": "选项"
   },
   {
     "key": "ui15",
     "original": "Load Game",
-    "translation": "加载游戏",
-    "stage": 1
+    "translation": "加载游戏"
   },
   {
     "key": "ui16",
     "original": "Continue",
-    "translation": "继续",
-    "stage": 1
+    "translation": "继续"
   },
   {
     "key": "ui17",
     "original": "Saving",
-    "translation": "正在保存",
-    "stage": 1
+    "translation": "正在保存"
   },
   {
     "key": "ui18",
     "original": "Sunless Skies v{{A}}.fcf{{B}}af{{C}}a",
-    "translation": "无光之空 v{{A}}.fcf{{B}}af{{C}}a",
-    "stage": 1
+    "translation": "无光之空 v{{A}}.fcf{{B}}af{{C}}a"
   },
   {
     "key": "ui19",
     "original": "Back",
-    "translation": "返回",
-    "stage": 1
+    "translation": "返回"
   },
   {
     "key": "ui20",
     "original": "Controls",
-    "translation": "按键绑定",
-    "stage": 1
+    "translation": "按键绑定"
   },
   {
     "key": "ui21",
     "original": "Graphics",
-    "translation": "图像",
-    "stage": 1
+    "translation": "图像"
   },
   {
     "key": "ui22",
     "original": "Audio",
-    "translation": "音频",
-    "stage": 1
+    "translation": "音频"
   },
   {
     "key": "ui23",
     "original": "Ambient SFX Volume ({{A}}%):",
-    "translation": "环境音效音量 ({{A}}%):",
-    "stage": 1
+    "translation": "环境音效音量 ({{A}}%):"
   },
   {
     "key": "ui24",
     "original": "SFX Volume ({{A}}%):",
-    "translation": "音效音量 ({{A}}%):",
-    "stage": 1
+    "translation": "音效音量 ({{A}}%):"
   },
   {
     "key": "ui25",
     "original": "Music Volume ({{A}}%):",
-    "translation": "音乐音量  ({{A}}%):",
-    "stage": 1
+    "translation": "音乐音量  ({{A}}%):"
   },
   {
     "key": "ui26",
     "original": "Restore Defaults",
-    "translation": "恢复默认值",
-    "stage": 1
+    "translation": "恢复默认值"
   },
   {
     "key": "ui27",
     "original": "Apply",
-    "translation": "应用",
-    "stage": 1
+    "translation": "应用"
   },
   {
     "key": "ui28",
     "original": "On",
-    "translation": "开启",
-    "stage": 1
+    "translation": "开启"
   },
   {
     "key": "ui29",
     "original": "Transparent UI",
-    "translation": "透明UI",
-    "stage": 1
+    "translation": "透明UI"
   },
   {
     "key": "ui30",
     "original": "Texture Quality",
-    "translation": "纹理质量",
-    "stage": 1
+    "translation": "纹理质量"
   },
   {
     "key": "ui31",
     "original": "Standard",
-    "translation": "标准",
-    "stage": 1
+    "translation": "标准"
   },
   {
     "key": "ui32",
     "original": "Font Size",
-    "translation": "字体大小",
-    "stage": 1
+    "translation": "字体大小"
   },
   {
     "key": "ui33",
     "original": "Off",
-    "translation": "关闭",
-    "stage": 1
+    "translation": "关闭"
   },
   {
     "key": "ui34",
     "original": "Full Screen",
-    "translation": "全屏",
-    "stage": 1
+    "translation": "全屏"
   },
   {
     "key": "ui35",
     "original": "{{A}}x{{B}}",
-    "translation": "{{A}}x{{B}}",
-    "stage": 1
+    "translation": "{{A}}x{{B}}"
   },
   {
     "key": "ui36",
     "original": "Resolution",
-    "translation": "分辨率",
-    "stage": 1
+    "translation": "分辨率"
   },
   {
     "key": "ui37",
     "original": "Large",
-    "translation": "较大",
-    "stage": 1
+    "translation": "较大"
   },
   {
     "key": "ui38",
     "original": "Low",
-    "translation": "低",
-    "stage": 1
+    "translation": "低"
   },
   {
     "key": "ui39",
     "original": "Toggle Journal",
-    "translation": "开/关日志面板",
-    "stage": 1
+    "translation": "开/关日志面板"
   },
   {
     "key": "ui40",
     "original": "Toggle Profile",
-    "translation": "开/关概览面板",
-    "stage": 1
+    "translation": "开/关概览面板"
   },
   {
     "key": "ui41",
     "original": "Toggle Hold",
-    "translation": "开/关货舱面板",
-    "stage": 1
+    "translation": "开/关货舱面板"
   },
   {
     "key": "ui42",
     "original": "Horn",
-    "translation": "喇叭",
-    "stage": 1
+    "translation": "喇叭"
   },
   {
     "key": "ui43",
     "original": "Light Toggle",
-    "translation": "开/关大灯",
-    "stage": 1
+    "translation": "开/关大灯"
   },
   {
     "key": "ui44",
     "original": "Explore",
-    "translation": "探索",
-    "stage": 1
+    "translation": "探索"
   },
   {
     "key": "ui45",
     "original": "Interact with object",
-    "translation": "与目标互动",
-    "stage": 1
+    "translation": "与目标互动"
   },
   {
     "key": "ui46",
     "original": "Engage secondary weapon",
-    "translation": "使用次要武器",
-    "stage": 1
+    "translation": "使用次要武器"
   },
   {
     "key": "ui47",
     "original": "Engage primary weapon",
-    "translation": "使用主要武器",
-    "stage": 1
+    "translation": "使用主要武器"
   },
   {
     "key": "ui48",
     "original": "Pause or resume",
-    "translation": "暂停或继续",
-    "stage": 1
+    "translation": "暂停或继续"
   },
   {
     "key": "ui49",
     "original": "Engage Scout",
-    "translation": "放出探子",
-    "stage": 1
+    "translation": "放出探子"
   },
   {
     "key": "ui50",
     "original": "Open Chart",
-    "translation": "打开地图",
-    "stage": 1
+    "translation": "打开地图"
   },
   {
     "key": "ui51",
     "original": "Cruise / Full Steam",
-    "translation": "巡航/全速前进",
-    "stage": 1
+    "translation": "巡航/全速前进"
   },
   {
     "key": "ui52",
     "original": "Lateral Thrust Left",
-    "translation": "向左平移",
-    "stage": 1
+    "translation": "向左平移"
   },
   {
     "key": "ui53",
     "original": "Lateral Thrust Right",
-    "translation": "向右平移",
-    "stage": 1
+    "translation": "向右平移"
   },
   {
     "key": "ui54",
     "original": "Move Backward",
-    "translation": "后退",
-    "stage": 1
+    "translation": "后退"
   },
   {
     "key": "ui55",
     "original": "Move Forward",
-    "translation": "前进",
-    "stage": 1
+    "translation": "前进"
   },
   {
     "key": "ui56",
     "original": "Move Vertical",
-    "translation": "垂直移动",
-    "stage": 1
+    "translation": "垂直移动"
   },
   {
     "key": "ui57",
     "original": "Move Left",
-    "translation": "左转",
-    "stage": 1
+    "translation": "左转"
   },
   {
     "key": "ui58",
     "original": "Move Right",
-    "translation": "右转",
-    "stage": 1
+    "translation": "右转"
   },
   {
     "key": "ui59",
     "original": "Move Horizontal",
-    "translation": "水平移动",
-    "stage": 1
+    "translation": "水平移动"
   },
   {
     "key": "ui60",
     "original": "Mouse",
-    "translation": "鼠标",
-    "stage": 1
+    "translation": "鼠标"
   },
   {
     "key": "ui61",
     "original": "Keyboard",
-    "translation": "键盘",
-    "stage": 1
+    "translation": "键盘"
   },
   {
     "key": "ui62",
     "original": "Actions",
-    "translation": "动作",
-    "stage": 1
+    "translation": "动作"
   },
   {
     "key": "ui63",
     "original": "Done",
-    "translation": "完成",
-    "stage": 1
+    "translation": "完成"
   },
   {
     "key": "ui64",
     "original": "Apply Changes",
-    "translation": "应用更改",
-    "stage": 1
+    "translation": "应用更改"
   },
   {
     "key": "ui65",
     "original": "Use Gamepad:",
-    "translation": "使用游戏手柄:",
-    "stage": 1
+    "translation": "使用游戏手柄:"
   },
   {
     "key": "ui66",
     "original": "No Controllers Detected",
-    "translation": "没有检测到游戏手柄",
-    "stage": 1
+    "translation": "没有检测到游戏手柄"
   },
   {
     "key": "ui67",
     "original": "Gamepad:",
-    "translation": "游戏手柄:",
-    "stage": 1
+    "translation": "游戏手柄:"
   },
   {
     "key": "ui68",
     "original": "Gamepad Options",
-    "translation": "游戏手柄选项",
-    "stage": 1
+    "translation": "游戏手柄选项"
   },
   {
     "key": "ui69",
     "original": "Toggle Officers",
-    "translation": "开/关车务官面板",
-    "stage": 1
+    "translation": "开/关车务官面板"
   },
   {
     "key": "ui70",
     "original": "UI Navigation Horizontal",
-    "translation": "UI 水平导航",
-    "stage": 1
+    "translation": "UI 水平导航"
   },
   {
     "key": "ui71",
     "original": "UI Move Right",
-    "translation": "UI 向右移动",
-    "stage": 1
+    "translation": "UI 向右移动"
   },
   {
     "key": "ui72",
     "original": "UI Move Left",
-    "translation": "UI 向左移动",
-    "stage": 1
+    "translation": "UI 向左移动"
   },
   {
     "key": "ui73",
     "original": "UI Navigation Vertical",
-    "translation": "UI 垂直导航",
-    "stage": 1
+    "translation": "UI 垂直导航"
   },
   {
     "key": "ui74",
     "original": "UI Move Up",
-    "translation": "UI 向上移动",
-    "stage": 1
+    "translation": "UI 向上移动"
   },
   {
     "key": "ui75",
     "original": "UI Move Down",
-    "translation": "UI 向下移动",
-    "stage": 1
+    "translation": "UI 向下移动"
   },
   {
     "key": "ui76",
     "original": "UI Scroll",
-    "translation": "UI 滚动",
-    "stage": 1
+    "translation": "UI 滚动"
   },
   {
     "key": "ui77",
     "original": "UI Scroll Up",
-    "translation": "UI 向上滚动",
-    "stage": 1
+    "translation": "UI 向上滚动"
   },
   {
     "key": "ui78",
     "original": "UI Scroll Down",
-    "translation": "UI向下滚动",
-    "stage": 1
+    "translation": "UI向下滚动"
   },
   {
     "key": "ui79",
     "original": "UI Select",
-    "translation": "UI 选择",
-    "stage": 1
+    "translation": "UI 选择"
   },
   {
     "key": "ui80",
     "original": "UI Submit",
-    "translation": "UI 提交",
-    "stage": 1
+    "translation": "UI 提交"
   },
   {
     "key": "ui81",
     "original": "UI Cancel",
-    "translation": "UI 取消",
-    "stage": 1
+    "translation": "UI 取消"
   },
   {
     "key": "ui82",
     "original": "UI Tab Right",
-    "translation": "UI 向右切换",
-    "stage": 1
+    "translation": "UI 向右切换"
   },
   {
     "key": "ui83",
     "original": "UI Tab Left",
-    "translation": "UI 向左切换",
-    "stage": 1
+    "translation": "UI 向左切换"
   },
   {
     "key": "ui84",
     "original": "Primary fire:",
-    "translation": "主武器:",
-    "stage": 1
+    "translation": "主武器:"
   },
   {
     "key": "ui85",
     "original": "Toggle cruise control:",
-    "translation": "切换巡航控制:",
-    "stage": 1
+    "translation": "切换巡航控制:"
   },
   {
     "key": "ui86",
     "original": "Dodge left:\\nDodge right:",
-    "translation": "向左躲避:\\n向右躲避:",
-    "stage": 1
+    "translation": "向左躲避:\\n向右躲避:"
   },
   {
     "key": "ui87",
     "original": "Thrust:\\nBrake:\\nTurn left:\\nTurn right:",
-    "translation": "前进:\\n刹车:\\n左转:\\n右转:",
-    "stage": 1
+    "translation": "前进:\\n刹车:\\n左转:\\n右转:"
   },
   {
     "key": "ui88",
     "original": "Hold",
-    "translation": "货舱",
-    "stage": 1
+    "translation": "货舱"
   },
   {
     "key": "ui89",
     "original": "Hull",
-    "translation": "车体",
-    "stage": 1
+    "translation": "车体"
   },
   {
     "key": "ui90",
     "original": "{{A}} barrels in hold. \\n{{B}}% remaining in current barrel.",
-    "translation": "货舱中剩余{{A}}桶.\\n这一桶中还剩{{B}}%.",
-    "stage": 1
+    "translation": "货舱中剩余{{A}}桶.\\n这一桶中还剩{{B}}%."
   },
   {
     "key": "ui91",
     "original": "Fuel",
-    "translation": "燃料",
-    "stage": 1
+    "translation": "燃料"
   },
   {
     "key": "ui92",
     "original": "Terror: {{A}}%\\nNightmares: Untroubled",
-    "translation": "恐怖:{{A}}%\\n恶梦:无所畏惧",
-    "stage": 1
+    "translation": "恐怖:{{A}}%\\n恶梦:无所畏惧"
   },
   {
     "key": "ui93",
     "original": "Hold [H]",
-    "translation": "货舱 [H]",
-    "stage": 1
+    "translation": "货舱 [H]"
   },
   {
     "key": "ui94",
     "original": "Profile [P]",
-    "translation": "简介 [P]",
-    "stage": 1
+    "translation": "简介 [P]"
   },
   {
     "key": "ui95",
     "original": "Journal [J]",
-    "translation": "日志 [J]",
-    "stage": 1
+    "translation": "日志 [J]"
   },
   {
     "key": "ui96",
     "original": "Officers [O]",
-    "translation": "车务官 [O]",
-    "stage": 1
+    "translation": "车务官 [O]"
   },
   {
     "key": "ui97",
     "original": "Chart [Tab]",
-    "translation": "地图 [Tab]",
-    "stage": 1
+    "translation": "地图 [Tab]"
   },
   {
     "key": "ui98",
     "original": "Tutorial",
-    "translation": "教程",
-    "stage": 1
+    "translation": "教程"
   },
   {
     "key": "ui99",
     "original": "Continue...",
-    "translation": "继续...",
-    "stage": 1
+    "translation": "继续..."
   },
   {
     "key": "ui100",
     "original": "Onwards!",
-    "translation": "继续前进!",
-    "stage": 1
+    "translation": "继续前进!"
   },
   {
     "key": "ui101",
     "original": "Exit",
-    "translation": "退出",
-    "stage": 1
+    "translation": "退出"
   },
   {
     "key": "ui102",
     "original": "Save and Exit",
-    "translation": "保存并退出",
-    "stage": 1
+    "translation": "保存并退出"
   },
   {
     "key": "ui103",
     "original": "Report a bug (F{{A}})",
-    "translation": "报告一个错误 (F{{A}})",
-    "stage": 1
+    "translation": "报告一个错误 (F{{A}})"
   },
   {
     "key": "ui104",
     "original": "Resume",
-    "translation": "继续",
-    "stage": 1
+    "translation": "继续"
   },
   {
     "key": "ui105",
     "original": "Pause Menu",
-    "translation": "暂停菜单",
-    "stage": 1
+    "translation": "暂停菜单"
   },
   {
     "key": "ui106",
     "original": "Tips",
-    "translation": "提示",
-    "stage": 1
+    "translation": "提示"
   },
   {
     "key": "ui107",
     "original": "Reset Tips",
-    "translation": "重置提示",
-    "stage": 1
+    "translation": "重置提示"
   },
   {
     "key": "ui108",
     "original": "Disable Tip Popups",
-    "translation": "禁用提示弹窗",
-    "stage": 1
+    "translation": "禁用提示弹窗"
   },
   {
     "key": "ui109",
     "original": "Yes",
-    "translation": "是",
-    "stage": 1
+    "translation": "是"
   },
   {
     "key": "ui110",
     "original": "No",
-    "translation": "否",
-    "stage": 1
+    "translation": "否"
   },
   {
     "key": "ui111",
     "original": "You can't currently save, either because you aren't docked at a port, or you are in the middle of making a story choice. Do you want to return to the title screen without saving?",
-    "translation": "目前不能保存，因为你要么没有停靠在港口，要么正在故事中做出选择。你想在不保存的情况下返回标题屏幕吗？",
-    "stage": 1
+    "translation": "目前不能保存，因为你没有停靠在港口，或是正在故事中做出选择。你想在不保存的情况下返回标题屏幕吗？"
   },
   {
     "key": "ui112",
     "original": "Exit without saving",
-    "translation": "不保存退出",
-    "stage": 1
+    "translation": "不保存退出"
   },
   {
     "key": "ui113",
     "original": "Orphean",
-    "translation": "俄耳甫斯号",
-    "stage": 1
+    "translation": "俄耳甫斯号"
   },
   {
     "key": "ui114",
     "original": "The Hold",
-    "translation": "货舱",
-    "stage": 1
+    "translation": "货舱"
   },
   {
     "key": "ui115",
     "original": "x{{A}}",
-    "translation": "x{{A}}",
-    "stage": 1
+    "translation": "x{{A}}"
   },
   {
     "key": "ui116",
     "original": "[<#FFD27C>G</color>] Explore",
-    "translation": "[<#FFD27C>G</color>]探索",
-    "stage": 1
+    "translation": "[<#FFD27C>G</color>]探索"
   },
   {
     "key": "ui117",
     "original": "Begin",
-    "translation": "开始",
-    "stage": 1
+    "translation": "开始"
   },
   {
     "key": "ui118",
     "original": "[<#FFD27C>R</color>] Dock",
-    "translation": "[<#FFD27C>R</color>]进站",
-    "stage": 1
+    "translation": "[<#FFD27C>R</color>]进站"
   },
   {
     "key": "ui119",
     "original": "Transit Relay",
-    "translation": "中转站",
-    "stage": 1
+    "translation": "中转站"
   },
   {
     "key": "ui120",
     "original": "Merciful campaign",
-    "translation": "慈悲模式",
-    "stage": 1
+    "translation": "慈悲模式"
   },
   {
     "key": "ui121",
     "original": "Legacy campaign",
-    "translation": "传承模式",
-    "stage": 1
+    "translation": "传承模式"
   },
   {
     "key": "ui122",
     "original": "If you die, you can reload or continue with a new captain.",
-    "translation": "如果你死了，可以重新加载或创建新的车长继续游戏。",
-    "stage": 1
+    "translation": "如果你死了，可以加载存档或是创建新的车长继续游戏。"
   },
   {
     "key": "ui123",
     "original": "- OR -",
-    "translation": "- 或 -",
-    "stage": 1
+    "translation": "- 或 -"
   },
   {
     "key": "ui124",
     "original": "If you die, you can only continue with a new captain.",
-    "translation": "如果你死了，只能创建新的车长继续游戏。",
-    "stage": 1
+    "translation": "如果你死了，只能创建新的车长。"
   },
   {
     "key": "ui125",
     "original": "Begin a new game",
-    "translation": "开始新游戏",
-    "stage": 1
+    "translation": "开始新游戏"
   },
   {
     "key": "ui126",
     "original": "None",
-    "translation": "无",
-    "stage": 1
+    "translation": "无"
   },
   {
     "key": "ui127",
     "original": "Confirm",
-    "translation": "确认",
-    "stage": 1
+    "translation": "确认"
   },
   {
     "key": "ui128",
     "original": "Supply Consumption",
-    "translation": "补给消耗",
-    "stage": 1
+    "translation": "补给消耗"
   },
   {
     "key": "ui129",
     "original": "Fuel and Supplies are consumed at the default rate.",
-    "translation": " 燃料和补给以默认速度消耗。",
-    "stage": 1
+    "translation": " 燃料和补给以默认速度消耗。"
   },
   {
     "key": "ui130",
     "original": "Enemy Projectile Speed",
-    "translation": "敌人投射物速度",
-    "stage": 1
+    "translation": "敌人投射物速度"
   },
   {
     "key": "ui131",
     "original": "Enemy projectiles move at the default speed.",
-    "translation": " 敌人的投射物以默认速度移动。",
-    "stage": 1
+    "translation": " 敌人的投射物以默认速度移动。"
   },
   {
     "key": "ui132",
     "original": "Aiming Assistance",
-    "translation": "辅助瞄准",
-    "stage": 1
+    "translation": "辅助瞄准"
   },
   {
     "key": "ui133",
     "original": "Only a few player weapons arc towards targets.",
-    "translation": " 只有少数玩家武器会追踪目标。",
-    "stage": 1
+    "translation": " 只有少数玩家武器会追踪目标。"
   },
   {
     "key": "ui134",
     "original": "Difficulty",
-    "translation": "难度",
-    "stage": 1
+    "translation": "难度"
   },
   {
     "key": "ui135",
     "original": "Gentle",
-    "translation": "温和",
-    "stage": 1
+    "translation": "温和"
   },
   {
     "key": "ui136",
     "original": "Many player weapons arc gently towards targets, making aiming easier.",
-    "translation": "多数玩家武器会略微追踪目标，让瞄准更加容易。",
-    "stage": 1
+    "translation": "多数玩家武器会略微追踪目标，让瞄准更加容易。"
   },
   {
     "key": "ui137",
     "original": "Thrifty",
-    "translation": "勤俭节约",
-    "stage": 1
+    "translation": "勤俭节约"
   },
   {
     "key": "ui138",
     "original": "Fuel and Supplies last longer, making it a little easier to survive and prosper. ",
-    "translation": " 燃料和补给更加持久，让生存和赚钱更加容易。",
-    "stage": 1
+    "translation": " 燃料和补给更加持久，让生存和赚钱更加容易。"
   },
   {
     "key": "ui139",
     "original": "Measured",
-    "translation": "不紧不慢",
-    "stage": 1
+    "translation": "不紧不慢"
   },
   {
     "key": "ui140",
     "original": "Enemy projectiles are somewhat slower, making it easier to avoid them.",
-    "translation": " 敌人的投射物在一定程度上变慢，使之更容易避开。",
-    "stage": 1
+    "translation": " 敌人的投射物在一定程度上变慢，使之更容易避开。"
   },
   {
     "key": "ui141",
     "original": "Moderate",
-    "translation": "适中",
-    "stage": 1
+    "translation": "适中"
   },
   {
     "key": "ui142",
     "original": "Many player weapons arc aggressively towards targets, making aiming easier.",
-    "translation": "多数玩家武器会积极追踪目标，让瞄准更加容易。",
-    "stage": 1
+    "translation": "多数玩家武器会积极追踪目标，让瞄准更加容易。"
   },
   {
     "key": "ui143",
     "original": "Provident",
-    "translation": "精打细算",
-    "stage": 1
+    "translation": "精打细算"
   },
   {
     "key": "ui144",
     "original": "Fuel and Supplies last much longer. If you're finding it hard to survive or earn money, this should help.",
-    "translation": " 如果你觉得生存或赚钱很困难，这应该有所帮助。",
-    "stage": 1
+    "translation": " 如果你觉得生存或赚钱很困难，这应该有所帮助。"
   },
   {
     "key": "ui145",
     "original": "Stately",
-    "translation": "从容不迫",
-    "stage": 1
+    "translation": "从容不迫"
   },
   {
     "key": "ui146",
     "original": "Enemy projectiles are significantly slower, making it easier to avoid them.",
-    "translation": " 敌人的投射物明显变慢，使之更容易避开。",
-    "stage": 1
+    "translation": " 敌人的投射物明显变慢，使之更容易避开。"
   },
   {
     "key": "ui147",
     "original": "Open Radial Menu",
-    "translation": "打开圆形辐射菜单",
-    "stage": 1
+    "translation": "打开圆形辐射菜单"
   },
   {
     "key": "ui148",
     "original": "Slot:",
-    "translation": "槽位:",
-    "stage": 1
+    "translation": "槽位:"
   },
   {
     "key": "ui149",
     "original": "Inventory",
-    "translation": "库存",
-    "stage": 0
+    "translation": "库存"
   },
   {
     "key": "ui150",
     "original": "Status",
-    "translation": "状况",
-    "stage": 0
+    "translation": "状态"
   },
   {
     "key": "ui151",
     "original": "Facets",
-    "translation": "面孔",
-    "stage": 0
+    "translation": "刻面"
   },
   {
     "key": "ui152",
     "original": "Journal",
-    "translation": "日志",
-    "stage": 1
+    "translation": "日志"
   },
   {
     "key": "ui153",
     "original": "Tip title",
-    "translation": "提示标题",
-    "stage": 1
+    "translation": "提示标题"
   },
   {
     "key": "ui154",
     "original": "[<#FFD27C>R</color>] Scavenge",
-    "translation": "[<#FFD27C>R</color>]搜刮",
-    "stage": 1
+    "translation": "[<#FFD27C>R</color>]搜刮"
   },
   {
     "key": "ui155",
     "original": "Are you sure you want to save and\\nreturn to the title screen?",
-    "translation": "确定要保存并\\n返回主标题吗？",
-    "stage": 1
+    "translation": "确定要保存并\\n返回标题界面吗？"
   },
   {
     "key": "ui156",
     "original": "Save and exit",
-    "translation": "保存并退出",
-    "stage": 1
+    "translation": "保存并退出"
   },
   {
     "key": "ui157",
     "original": "Doctor",
-    "translation": "博士",
-    "stage": 1
+    "translation": "博士"
   },
   {
     "key": "ui158",
     "original": "Professor",
-    "translation": "教授",
-    "stage": 1
+    "translation": "教授"
   },
   {
     "key": "ui159",
     "original": "Officer",
-    "translation": "车务官",
-    "stage": 1
+    "translation": "车务官"
   },
   {
     "key": "ui160",
     "original": "Archivist",
-    "translation": "档案员",
-    "stage": 1
+    "translation": "档案员"
   },
   {
     "key": "ui161",
     "original": "Principal",
-    "translation": "负责人",
-    "stage": 0
+    "translation": "负责人"
   },
   {
     "key": "ui162",
     "original": "Administrator",
-    "translation": "管理员",
-    "stage": 0
+    "translation": "管理员"
   },
   {
     "key": "ui163",
     "original": "Secretary",
-    "translation": "秘书",
-    "stage": 1
+    "translation": "秘书"
   },
   {
     "key": "ui164",
     "original": "Intendant",
-    "translation": "秘书",
-    "stage": 0
+    "translation": "秘书"
   },
   {
     "key": "ui165",
     "original": "Nurse",
-    "translation": "护士",
-    "stage": 1
+    "translation": "护士"
   },
   {
     "key": "ui166",
     "original": "Comrade",
-    "translation": "同志",
-    "stage": 0
+    "translation": "同志"
   },
   {
     "key": "ui167",
     "original": "Brother",
-    "translation": "弟兄",
-    "stage": 1
+    "translation": "弟兄"
   },
   {
     "key": "ui168",
     "original": "Sister",
-    "translation": "姊妹",
-    "stage": 1
+    "translation": "姊妹"
   },
   {
     "key": "ui169",
     "original": "Reverend",
-    "translation": "牧师",
-    "stage": 1
+    "translation": "牧师"
   },
   {
     "key": "ui170",
     "original": "Madam",
-    "translation": "夫人",
-    "stage": 1
+    "translation": "夫人"
   },
   {
     "key": "ui171",
     "original": "Sir",
-    "translation": "先生",
-    "stage": 1
+    "translation": "先生"
   },
   {
     "key": "ui172",
     "original": "Citizen",
-    "translation": "公民",
-    "stage": 1
+    "translation": "公民"
   },
   {
     "key": "ui173",
     "original": "Captain",
-    "translation": "车长",
-    "stage": 1
+    "translation": "车长"
   },
   {
     "key": "ui174",
     "original": "My lord",
-    "translation": "大人",
-    "stage": 1
+    "translation": "大人"
   },
   {
     "key": "ui175",
     "original": "My lady",
-    "translation": "女士",
-    "stage": 1
+    "translation": "女士"
   },
   {
     "key": "ui176",
     "original": "Feedback",
-    "translation": "反馈",
-    "stage": 1
+    "translation": "反馈"
   },
   {
     "key": "ui177",
     "original": "Other Issue – Includes gameplay, performance, graphics, UI and controls.",
-    "translation": "其他问题 - 包括游戏流程, 性能, 图形, 用户界面和控制。",
-    "stage": 1
+    "translation": "其他问题 - 包括游戏流程, 性能, 图形, 用户界面和控制。"
   },
   {
     "key": "ui178",
     "original": "Narrative Issue – Includes typos, story progression and journal inconsistencies.",
-    "translation": "叙事问题 - 包括错别字, 故事进度和日志的不一致。",
-    "stage": 1
+    "translation": "叙事问题 - 包括错别字, 故事进度和日志的不一致。"
   },
   {
     "key": "ui179",
     "original": "Feedback – Tell us your thoughts, good and bad!",
-    "translation": "反馈 - 告诉我们您的想法, 不论是好是坏!",
-    "stage": 1
+    "translation": "反馈 - 告诉我们您的想法, 不论是好是坏!"
   },
   {
     "key": "ui180",
     "original": "Narrative Issue – Includes typos, story progression, journal inconsistencies.",
-    "translation": "叙事问题 - 包括错别字、故事进展、日志不一致。",
-    "stage": 1
+    "translation": "叙事问题 - 包括错别字、故事进展、日志不一致。"
   },
   {
     "key": "ui181",
     "original": "Speed up",
-    "translation": "加速",
-    "stage": 1
+    "translation": "加速"
   },
   {
     "key": "ui182",
     "original": "New Winchester Market",
-    "translation": "新温彻斯特市场",
-    "stage": 1
+    "translation": "新温彻斯特市场"
   },
   {
     "key": "ui183",
     "original": "Bazaar",
-    "translation": "巴扎",
-    "stage": 1
+    "translation": "巴扎"
   },
   {
     "key": "ui184",
     "original": "Shops",
-    "translation": "商店",
-    "stage": 1
+    "translation": "商店"
   },
   {
     "key": "ui185",
     "original": "Stories",
-    "translation": "故事",
-    "stage": 1
+    "translation": "故事"
   },
   {
     "key": "ui186",
     "original": "Failure!",
-    "translation": "失败!",
-    "stage": 1
+    "translation": "失败!"
   },
   {
     "key": "ui187",
     "original": "Success!",
-    "translation": "成功!",
-    "stage": 1
+    "translation": "成功!"
   },
   {
     "key": "ui188",
     "original": "Start Game",
-    "translation": "开始游戏",
-    "stage": 1
+    "translation": "开始游戏"
   },
   {
     "key": "ui189",
     "original": "Your Journal! This keeps track of your progress and any opportunities you're pursuing.",
-    "translation": "你的日记! 这里会记录你的进度和你正追寻的所有机遇。",
-    "stage": 1
+    "translation": "你的日志! 这里会记录你的进度和你正追寻的所有机遇。"
   },
   {
     "key": "ui190",
     "original": "The Journal",
-    "translation": "日志",
-    "stage": 1
+    "translation": "日志"
   },
   {
     "key": "ui191",
     "original": "Your engine was damaged in its escape from the Blue Kingdom. The captain was injured. Can you see her back to New Winchester? Time is running out for Captain Whitlock.",
-    "translation": "你的机车在逃离蓝色王国的过程中受损了。船长受伤了。你还能看到她回到新温彻斯特吗？惠洛克船长已不剩多少时间。",
-    "stage": 1
+    "translation": "你的机车在逃离蓝色王国的过程中受损了。车长受伤了。你还能看到她回到新温彻斯特吗？惠洛克车长已不剩多少时间。"
   },
   {
     "key": "ui192",
     "original": "Your Officers! Use this tab while in port to appoint them, or at any time to talk to or otherwise interact with them.",
-    "translation": "你的车务官! 停泊在港口时使用这个界面来任命他们，也可以随时与他们交谈或以其他方式互动。",
-    "stage": 1
+    "translation": "你的车务官! 停泊在港口时使用这个界面来任命他们，也可以随时与他们交谈或以其他方式互动。"
   },
   {
     "key": "ui193",
     "original": "Your Officers",
-    "translation": "你的车务官",
-    "stage": 1
+    "translation": "你的车务官"
   },
   {
     "key": "ui194",
     "original": "Mascot",
-    "translation": "吉祥物",
-    "stage": 1
+    "translation": "吉祥物"
   },
   {
     "key": "ui195",
     "original": "Chief Engineer",
-    "translation": "轮机长",
-    "stage": 1
+    "translation": "首席工程师"
   },
   {
     "key": "ui196",
     "original": "Signaller",
-    "translation": "信号员",
-    "stage": 0
+    "translation": "信号员"
   },
   {
     "key": "ui197",
     "original": "Quartermaster",
-    "translation": "军需官",
-    "stage": 0
+    "translation": "军需官"
   },
   {
     "key": "ui198",
     "original": "First Officer",
-    "translation": "大副",
-    "stage": 1
+    "translation": "大副"
   },
   {
     "key": "ui199",
     "original": "Your Profile! This records all aspects of your captain's abilities, accomplishments, and reputation.",
-    "translation": "你的资料!这记录了你的队长的能力、成就和声誉的所有方面。",
-    "stage": 0
+    "translation": "你的资料!这记录了你的队长的能力、成就和声誉的所有方面。"
   },
   {
     "key": "ui200",
     "original": "The Profile",
-    "translation": "简介",
-    "stage": 0
+    "translation": "简介"
   },
   {
     "key": "ui201",
     "original": "Reputations",
-    "translation": "声誉",
-    "stage": 0
+    "translation": "声誉"
   },
   {
     "key": "ui202",
     "original": "Events",
-    "translation": "活动",
-    "stage": 0
+    "translation": "活动"
   },
   {
     "key": "ui203",
     "original": "Your Hold! This shows your current cargo and any prospects you've accepted. You can also change your locomotive's equipment here while in port, and jettison your unwanted cargo (while in port or otherwise).",
-    "translation": "你的库存!这里显示你目前的货物和你已经接受的任何前景。当你在港口时，你也可以在这里改变你的机车设备，并抛弃你不需要的货物（在港口或其他地方）。",
-    "stage": 0
+    "translation": "你的库存!这里显示你目前的货物和你已经接受的任何前景。当你在港口时，你也可以在这里改变你的机车设备，并抛弃你不需要的货物（在港口或其他地方）。"
   },
   {
     "key": "ui204",
     "original": "Possessions",
-    "translation": "财产",
-    "stage": 0
+    "translation": "资产"
   },
   {
     "key": "ui205",
     "original": "'Spatchcock' Reclaimed Locomotive",
-    "translation": "Spatchcock \"再生机车",
-    "stage": 0
+    "translation": "Spatchcock \"再生机车"
   },
   {
     "key": "ui206",
     "original": "Look to the <i>Orphean</i>'s doctor",
-    "translation": "看向<i>俄耳甫斯号</i>的医生",
-    "stage": 1
+    "translation": "看向<i>俄耳甫斯号</i>的医生"
   },
   {
     "key": "ui207",
     "original": "He has just appeared at your shoulder. His face is solemn; his hat is in his hands. He lowers his eyes.",
-    "translation": "他刚刚出现在你的肩膀上。他的脸很庄重；他的帽子在他的手中。他低下头来。",
-    "stage": 0
+    "translation": "他刚刚出现在你的肩膀上。他的脸很庄重；他的帽子在他的手中。他低下头来。"
   },
   {
     "key": "ui208",
     "original": "Arrival at New Winchester",
-    "translation": "抵达新温彻斯特",
-    "stage": 0
+    "translation": "抵达新温彻斯特"
   },
   {
     "key": "ui209",
     "original": "You coast into the bustle, the din, the soot and the steam of Wolvesey Station. It is clogged with other engines: scrappy mining locomotives from Lustrum-way, weathered explorers gleaming with frost; sleek Company vessels with bright brass fittings.\\r\\n\\r\\nNo sooner have you pulled into the sidings than a Brusque Stationmaster bustles over. He requests to come aboard. \"I must speak with your captain,\" he insists, brandishing a ledger. \"The usual formalities.\"",
-    "translation": "你沿着海岸线进入沃尔维西车站的喧嚣、嘈杂、煤烟和蒸汽中。它被其他发动机所堵塞：来自拉斯特鲁姆（Lustrum-way）的废旧采矿机车，饱经风霜的探险家，带有明亮黄铜配件的光滑公司船只。\\r\\n\\r\\n你刚把车开进侧线，一位粗鲁的站长就走了过来。他要求上船。\"我必须和你们的船长谈谈，\"他坚持说，并挥舞着一个账本。\"通常的手续\"。",
-    "stage": 0
+    "translation": "你沿着海岸线进入沃尔维西车站的喧嚣、嘈杂、煤烟和蒸汽中。它被其他发动机所堵塞：来自拉斯特鲁姆（Lustrum-way）的废旧采矿机车，饱经风霜的探险家，带有明亮黄铜配件的光滑公司船只。\\r\\n\\r\\n你刚把车开进侧线，一位粗鲁的站长就走了过来。他要求上船。\"我必须和你们的船长谈谈，\"他坚持说，并挥舞着一个账本。\"通常的手续\"。"
   },
   {
     "key": "ui210",
     "original": "The passing",
-    "translation": "逝者如斯夫",
-    "stage": 0
+    "translation": "逝者如斯夫"
   },
   {
     "key": "ui211",
     "original": "The crew exchange bleak, wordless looks. The <i>Orphean</i> itself feels suddenly more empty. The Stationmaster looks confused. You inform him that unfortunately, Captain Whitlock has just passed.\\r\\n\\r\\n\"Ah,\" he says, neutrally. \"Sorry to hear that. Very sad, very sad.\" He waits for what he considers an appropriate minute and a half before continuing. \"Alas, even amidst tragedy the cogs of bureaucracy must turn. If Captain Whitlock is deceased, the Station Authority require their answers from the first officer.\" \\r\\n\\r\\nHe dons a set of spectacles and locates his pen. \"It will be relatively painless. Name, background, purpose of visit, et cetera. Shall we begin?\"",
-    "translation": "船员们交换了黯淡无光的眼神。舰长 <i>俄耳甫斯号</i> 自己突然感到更加空虚。站长看起来很困惑。你告诉他，不幸的是，惠特洛克船长刚刚去世。\\r\\n\\r\\n\"啊，\"他中立地说道。\"很遗憾听到这个消息。非常难过，非常难过。\"他等了他认为适当的一分半钟才继续说。\"唉，即使在悲剧中，官僚机构的齿轮也必须转动。如果惠特洛克船长已经去世，车站管理局要求他们从大副那里得到答案。\"\\r\\n\\r\\n他戴上了一副眼镜，找到了他的笔。\"这将是相对无痛的。姓名、背景、访问目的，等等。我们可以开始了吗？\"",
-    "stage": 0
+    "translation": "列车员们交换了黯淡无光的眼神。舰长 <i>俄耳甫斯号</i> 自己突然感到更加空虚。站长看起来很困惑。你告诉他，不幸的是，惠特洛克船长刚刚去世。\\r\\n\\r\\n\"啊，\"他中立地说道。\"很遗憾听到这个消息。非常难过，非常难过。\"他等了他认为适当的一分半钟才继续说。\"唉，即使在悲剧中，官僚机构的齿轮也必须转动。如果惠特洛克船长已经去世，车站管理局要求他们从大副那里得到答案。\"\\r\\n\\r\\n他戴上了一副眼镜，找到了他的笔。\"这将是相对无痛的。姓名、背景、访问目的，等等。我们可以开始了吗？\""
   },
   {
     "key": "ui212",
     "original": "Today, London lies between the stars. Her new empire unfolds across the heavens.\\r\\n\\r\\nBut ten years ago – before the northern gate was opened; before the Renewed Empress led her people into the skies – it lay in a vast cavern far beneath the Earth. Deep. Dark. Marvellous.\\r\\n\\r\\nWho were you, then?",
-    "translation": "今天，伦敦位于星空之间。她的新帝国在天际展开。\\r\\n\\r\\n但十年前--在北方的大门被打开之前；在更新的女皇带领她的人民进入天空之前--它躺在地球下面的一个巨大的洞穴里。深邃。黑暗。神奇的。\\r\\n\\r\\n你是谁，然后呢？",
-    "stage": 0
+    "translation": "如今，伦敦坐落于群星之间。她的新帝国向天际铺展。\\r\\n\\r\\n但十年前--在北方的大门被打开之前；在新生的女皇带领她的子民进入天空之前--它位于地下深处一个巨大的洞穴。深邃，黑暗，而神奇。\\r\\n\\r\\n当时你是何人？"
   },
   {
     "key": "ui213",
     "original": "Randomise All",
-    "translation": "全部随机化",
-    "stage": 0
+    "translation": "全部随机"
   },
   {
     "key": "ui214",
     "original": "Starting Stats",
-    "translation": "初始数据",
-    "stage": 0
+    "translation": "初始数据"
   },
   {
     "key": "ui215",
     "original": "Please choose your ambition..",
-    "translation": "请选择你的野心.",
-    "stage": 1
+    "translation": "请选择你的野心."
   },
   {
     "key": "ui216",
     "original": "Please decide your history..",
-    "translation": "请决定你的历史...",
-    "stage": 0
+    "translation": "请选择你的过去..."
   },
   {
     "key": "ui217",
     "original": "Please choose your origin..",
-    "translation": "请选择你的出身...",
-    "stage": 0
+    "translation": "请选择你的出身..."
   },
   {
     "key": "ui218",
     "original": "Outfit {{A}}",
-    "translation": "衣物{{A}}",
-    "stage": 1
+    "translation": "衣物 {{A}}"
   },
   {
     "key": "ui219",
     "original": "Chin {{A}}",
-    "translation": "下巴{{A}}",
-    "stage": 1
+    "translation": "下巴 {{A}}"
   },
   {
     "key": "ui220",
     "original": "Nose {{A}}",
-    "translation": "鼻子 {{A}}",
-    "stage": 1
+    "translation": "鼻子 {{A}}"
   },
   {
     "key": "ui221",
     "original": "Brow {{A}}",
-    "translation": "眉毛{{A}}",
-    "stage": 1
+    "translation": "眉毛 {{A}}"
   },
   {
     "key": "ui222",
     "original": "Hair {{A}}",
-    "translation": "头发 {{A}}",
-    "stage": 1
+    "translation": "头发 {{A}}"
   },
   {
     "key": "ui223",
     "original": "Hat {{A}}",
-    "translation": "帽子 {{A}}",
-    "stage": 1
+    "translation": "帽子 {{A}}"
   },
   {
     "key": "ui224",
     "original": "Random Name",
-    "translation": "随机名称",
-    "stage": 0
+    "translation": "随机名称"
   },
   {
     "key": "ui225",
     "original": "This will determine what people call your captain, but your captain's gender is up to you.",
-    "translation": "这将决定人们如何称呼你的车长，但车长的性别由你决定。",
-    "stage": 1
+    "translation": "这将决定人们如何称呼你的车长，但车长的性别由你决定。"
   },
   {
     "key": "ui226",
     "original": "Specialist",
-    "translation": "专家",
-    "stage": 0
+    "translation": "专家"
   },
   {
     "key": "ui227",
     "original": "Name",
-    "translation": "命名",
-    "stage": 0
+    "translation": "命名"
   },
   {
     "key": "ui228",
     "original": "Term of Address",
-    "translation": "称呼方式",
-    "stage": 1
+    "translation": "称呼方式"
   },
   {
     "key": "ui229",
     "original": "Random Avatar",
-    "translation": "随机头像",
-    "stage": 0
+    "translation": "随机头像"
   },
   {
     "key": "ui230",
     "original": "Appearance",
-    "translation": "外观",
-    "stage": 0
+    "translation": "外观"
   },
   {
     "key": "ui231",
     "original": "Even the stars have secrets. But they won't keep them from you.\\nA message from an old friend begins an unwise quest to learn a secret that the stars hide. What drives you? Curiosity? Justice? Insolence? Whatever it is, it will be tested.\\r\\n\\r\\n<i>Be warned: this is a demanding ambition, best played by a lineage that has already completed Wealth or Fame.</i>",
-    "translation": "即使星星也有秘密。但它们没法对你保密。\\r\\n一个老朋友的讯息开始了一次揭开星星奥秘的鲁莽探索。是什么驱使着你？好奇心？正义？无理取闹？不管它是什么，都将受到考验。\\r\\n\\r\\n<i>警告：这个夙愿相当困难，最好在已经完成财富或名声的故事线游玩。</i>",
-    "stage": 1
+    "translation": "即使星星也有秘密。但它们没法对你保密。\\n一个老朋友的讯息开始了一次揭开星星奥秘的鲁莽探索。是什么驱使着你？好奇心？正义？无理取闹？不管它是什么，都将受到考验。\\r\\n\\r\\n<i>警告：这个野心相当困难，最好在已经完成财富或名声的故事线游玩。</i>"
   },
   {
     "key": "ui232",
     "original": "THE TRUTH",
-    "translation": "真相",
-    "stage": 1
+    "translation": "真相"
   },
   {
     "key": "ui233",
     "original": "You will immortalise your exploits in the Song of the Sky.\\nFor centuries, people have launched themselves into the unknown in the hope of making a name for themselves. You're sure you'll succeed. After all, you never heard of anyone who didn't.\\r\\n\\r\\n<i>Gather stories of your exploits, and write about them in New Winchester.</i>",
-    "translation": "你将在《天空之歌》中永载你的功绩。\\r\\n几个世纪以来，人们都在冲向未知，希望能扬名立万。你确信你会成功。毕竟，从未听说过谁没有的。\\r\\n\\r\\n<i>收集关于你事迹的故事，并在新温彻斯特写下它们。</i>",
-    "stage": 1
+    "translation": "你将在《天空之歌》中永载你的功绩。\\r\\n几个世纪以来，人们都在冲向未知，希望能扬名立万。你确信你会成功。毕竟，从未听说过谁没有的。\\r\\n\\r\\n<i>收集关于你事迹的故事，并在新温彻斯特写下它们。</i>"
   },
   {
     "key": "ui234",
     "original": "FAME",
-    "translation": "名望",
-    "stage": 1
+    "translation": "名望"
   },
   {
     "key": "ui235",
     "original": "You want a comfortable retirement. And by 'comfortable', you mean 'extravagant'.\\nMany have made their fortunes out among the stars. Many more have failed, broken and lost in the drifting night. Will you be different?\\r\\n\\r\\n<i>To win, gather a substantial retirement fund, acquire lodgings at a hub port, and retire.</i>",
-    "translation": "你想要舒适的退休生活。你说的 '舒适' 是指 '奢侈'。\\r\\n许多人在星空中发了财。更多的人失败了，在漂泊的夜里伤心迷失。你会有所不同吗？\\r\\n\\r\\n<i>要想获胜，先赚取一大笔退休金，在一个枢纽港口置办住处，然后退休。</i>",
-    "stage": 1
+    "translation": "你想要舒适的退休生活。你说的 '舒适' 是指 '奢侈'。\\r\\n许多人在星空中发了财。更多的人失败了，在漂泊的夜里伤心迷失。你会有所不同吗？\\r\\n\\r\\n<i>要想获胜，先赚取一大笔退休金，在一个枢纽港口置办住处，然后退休。</i>"
   },
   {
     "key": "ui236",
     "original": "WEALTH",
-    "translation": "财富",
-    "stage": 0
+    "translation": "财富"
   },
   {
     "key": "ui237",
     "original": "A REVOLUTIONARY",
-    "translation": "一个革命家",
-    "stage": 1
+    "translation": "一个革命家"
   },
   {
     "key": "ui238",
     "original": "A MINISTRY AUDITOR",
-    "translation": "一位部门审计师",
-    "stage": 1
+    "translation": "一位部门审计师"
   },
   {
     "key": "ui239",
     "original": "A ZAILOR",
-    "translation": "一名水手",
-    "stage": 1
+    "translation": "一名水手"
   },
   {
     "key": "ui240",
     "original": "A PRIEST",
-    "translation": "一位牧师",
-    "stage": 1
+    "translation": "一位牧师"
   },
   {
     "key": "ui241",
     "original": "For a time, you served at the Ministry of Public Decency, which has become Her Majesty's preferred instrument.\\r\\n\\r\\n<i>You will begin with high Mirrors, the skill of investigating and deducing.</i>",
-    "translation": "你曾在公德部工作过一段时间，它已成为女王陛下首选的喉舌。\\r\\n\\r\\n<i>你开局将拥有更高的镜值，它是调查和推理的技巧。</i>",
-    "stage": 1
+    "translation": "你曾在公德部工作过一段时间，它已成为女王陛下首选的喉舌。\\r\\n\\r\\n<i>你开局将拥有更高的镜子值，它是调查和推理的技巧。</i>"
   },
   {
     "key": "ui242",
     "original": "A student of the sciences, the arts, of philosophy. \\r\\n\\r\\n<i>You will begin with high Mirrors, the skill of investigating and deducing.</i>",
-    "translation": "学习科学、艺术、哲学的学生。 \\r\\n\\r\\n<i>你开局将拥有更高的镜值，它是调查和推理的技巧。</i>",
-    "stage": 1
+    "translation": "学习科学、艺术、哲学的学生。 \\r\\n\\r\\n<i>你开局将拥有更高的镜子值，它是调查和推理的技巧。</i>"
   },
   {
     "key": "ui243",
     "original": "AN ACADEMIC",
-    "translation": "一位学者",
-    "stage": 1
+    "translation": "一位学者"
   },
   {
     "key": "ui244",
     "original": "Hymns and hymnals, Sundays and sermons.\\r\\n\\r\\n<i>You will begin with high Hearts, the skill of convincing and enduring.</i>",
-    "translation": "赞美诗和圣诗，主日和讲道。\\r\\n\\r\\n<i>你开局将拥有更高的心值，它是说服和生存的技巧。</i>",
-    "stage": 1
+    "translation": "赞美诗和圣诗，主日和讲道。\\r\\n\\r\\n<i>你开局将拥有更高的红心值，它是说服和生存的技巧。</i>"
   },
   {
     "key": "ui245",
     "original": "The pen. The ink. The blank, monstrous page. \\r\\n\\r\\n<i>You will begin with high Hearts, the skill of convincing and enduring.</i>",
-    "translation": "笔头。墨水。可怕的空白页。 \\r\\n\\r\\n<i>你开局将拥有更高的心值，它是说服和生存的技巧。</i>",
-    "stage": 1
+    "translation": "笔头。墨水。可怕的空白页。 \\r\\n\\r\\n<i>你开局将拥有更高的红心值，它是说服和生存的技巧。</i>"
   },
   {
     "key": "ui246",
     "original": "A POET",
-    "translation": "一位诗人",
-    "stage": 1
+    "translation": "一位诗人"
   },
   {
     "key": "ui247",
     "original": "You roved the mournful, merciless waters of the Unterzee. \\r\\n\\r\\n<i>You will begin with high Iron, the skill of confronting and overcoming.</i>",
-    "translation": "你漫游地下海哀伤无情的水域。\\r\\n\\r\\n<i>你开局将拥有更高的铁值，它是战斗和取胜的技巧。</i>",
-    "stage": 1
+    "translation": "你漫游海泽哀伤无情的水域。\\r\\n\\r\\n<i>你开局将拥有更高的钢铁值，它是战斗和取胜的技巧。</i>"
   },
   {
     "key": "ui248",
     "original": "Yours was not to reason why. Yours was but to do and die.\\r\\n\\r\\n<i>You will begin with high Iron, the skill of confronting and overcoming.</i>",
-    "translation": "你不关心缘由。你只需执行和赴死。\\r\\n\\r\\n<i>你开局将拥有更高的心值，它是战斗和取胜的技巧。</i>",
-    "stage": 1
+    "translation": "你不关心缘由。你只需执行和赴死。\\r\\n\\r\\n<i>你开局将拥有更高的心值，它是战斗和取胜的技巧。</i>"
   },
   {
     "key": "ui249",
     "original": "A SOLDIER",
-    "translation": "一个士兵",
-    "stage": 0
+    "translation": "一个士兵"
   },
   {
     "key": "ui250",
     "original": "The world is broken. One way for the rich, another for the poor. You decided to do something about it.\\r\\n\\r\\n<i>You will begin with high Veils, the skill of evading and deceiving.</i>",
-    "translation": "这世界害了病。富人走阳关道，穷人走独木桥。你决定为此做点什么。\\r\\n\\r\\n<i>你开局将拥有更高的纱值，它是隐蔽和欺骗的技巧。</i>",
-    "stage": 1
+    "translation": "这世界害了病。富人走阳关道，穷人走独木桥。你决定为此做点什么。\\r\\n\\r\\n<i>你开局将拥有更高的面纱值，它是隐蔽和欺骗的技巧。</i>"
   },
   {
     "key": "ui251",
     "original": "No parents! No laws! No Masters! But also no roof over your head, no money, and often no dinner. Freedom comes at a price. \\r\\n\\r\\n<i>You will begin with high Veils, the skill of evading and deceiving.</i>",
-    "translation": "没有爸妈! 没有法律! 没有主人! 但也没有遮蔽，没有钱，经常还没有晚餐。自由是要付出代价的。 \\r\\n\\r\\n<i>你开局将拥有更高的纱值，它是隐蔽和欺骗的技巧。</i>",
-    "stage": 1
+    "translation": "没有爸妈! 没有法律! 没有主人! 但也没有遮蔽，没有钱，经常还没有晚餐。自由是要付出代价的。 \\r\\n\\r\\n<i>你开局将拥有更高的面纱值，它是隐蔽和欺骗的技巧。</i>"
   },
   {
     "key": "ui252",
     "original": "A STREET URCHIN",
-    "translation": "一个街头流浪儿",
-    "stage": 1
+    "translation": "一个街头流浪儿"
   },
   {
     "key": "ui253",
     "original": "Name and Appearance",
-    "translation": "名字和外观",
-    "stage": 1
+    "translation": "名字和外观"
   },
   {
     "key": "ui254",
     "original": "Ambition",
-    "translation": "夙愿",
-    "stage": 1
+    "translation": "野心"
   },
   {
     "key": "ui255",
     "original": "Affiliation",
-    "translation": "从属",
-    "stage": 1
+    "translation": "从属"
   },
   {
     "key": "ui256",
     "original": "Origin",
-    "translation": "出身",
-    "stage": 1
+    "translation": "出身"
   },
   {
     "key": "ui257",
     "original": "Create your Captain",
-    "translation": "创建你的车长",
-    "stage": 1
+    "translation": "创建你的车长"
   },
   {
     "key": "ui258",
     "original": "You were a street urchin.\\n\\nYou raced, barefoot, across the chimneyed rooftops. You stole wigs, wallets, and purses. You made offerings to forgotten gods. \\r\\n\\r\\nThe urchins of Old London organise into gangs. \\r\\n\\r\\nWhich did you belong to?",
-    "translation": "你是一个街头流浪儿。\\r\\n\\r\\n你光着脚在遍布烟囱的屋顶上赛跑。你偷走假发、钱包和皮包。你供奉被遗忘的神灵。\\r\\n\\r\\n旧伦敦的流浪儿们组织起了帮派。\\r\\n\\r\\n你属于哪一个？",
-    "stage": 1
+    "translation": "你是一个街头流浪儿。\\r\\n\\r\\n你光着脚在遍布烟囱的屋顶上赛跑。你偷走假发、钱包和皮包。你供奉被遗忘的神灵。\\r\\n\\r\\n旧伦敦的流浪儿们组织起了帮派。\\r\\n\\r\\n你属于哪一个？"
   },
   {
     "key": "ui259",
     "original": "The most militaristic of the gangs, in their blue jackets and bright buttons. You attained the rank of corporal.\\r\\n \\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Villainy.</i>",
-    "translation": "最军事化的帮派，身着蓝色夹克和明亮的纽扣。你任职下士。\\r\\n \\r\\n<i>增加你的铁值，它是战斗和取胜的技巧，并使你从属于犯罪者。</i>",
-    "stage": 1
+    "translation": "最军事化的帮派，身着蓝色夹克和明亮的纽扣。你任职下士。\\r\\n \\r\\n<i>增加你的钢铁值，它是战斗和取胜的技巧，并使你从属于犯罪者。</i>"
   },
   {
     "key": "ui260",
     "original": "The Regiment",
-    "translation": "军团帮",
-    "stage": 1
+    "translation": "军团帮"
   },
   {
     "key": "ui261",
     "original": "Every Fisher-King bears an old wound. Every Fisher-King talks to the wind. Every Fisher-King knows things they should not know. \\r\\n\\r\\n<i>Increases your Mirrors, the skill of deducing and observing, and affiliates you with Villainy.</i>",
-    "translation": "每个渔王都负着旧伤。每个渔王都能与风谈话。每个渔王都知道不应知道的事情。 \\r\\n\\r\\n<i>增加你的镜值，它是调查和推理的技巧，并使你从属于犯罪者。</i>",
-    "stage": 1
+    "translation": "每个渔王都负着旧伤。每个渔王都能与风谈话。每个渔王都知道不应知道的事情。 \\r\\n\\r\\n<i>增加你的镜子值，它是调查和推理的技巧，并使你从属于犯罪者。</i>"
   },
   {
     "key": "ui262",
     "original": "The Fisher-Kings",
-    "translation": "渔王帮",
-    "stage": 1
+    "translation": "渔王帮"
   },
   {
     "key": "ui263",
     "original": "A close-knit band that occupied a haunted rookery in the worst part of the city. \\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Villainy.</i>",
-    "translation": "一支亲密无间的队伍，占据着城市最糟糕角落的闹鬼窝巢。 \\r\\n\\r\\n<i>增加你的心值、它是说服和生存的技巧，并使你从属于犯罪者。</i>",
-    "stage": 1
+    "translation": "一支亲密无间的队伍，占据着城市最糟糕角落的闹鬼窝巢。 \\r\\n\\r\\n<i>增加你的红心值、它是说服和生存的技巧，并使你从属于犯罪者。</i>"
   },
   {
     "key": "ui264",
     "original": "The Knotted Sock",
-    "translation": "捆袜帮",
-    "stage": 1
+    "translation": "捆袜帮"
   },
   {
     "key": "ui265",
     "original": "You were a soldier.\\n\\nYou served in Her Majesty's military. \\r\\n\\r\\nBut how, exactly?",
-    "translation": "你是一名士兵。\\n\\n你在女皇陛下的军队中服役。\\r\\n\\r\\n那么，你如何服役？",
-    "stage": 1
+    "translation": "你是一名士兵。\\n\\n你在女皇陛下的军队中服役。\\r\\n\\r\\n那么，你如何服役？"
   },
   {
     "key": "ui266",
     "original": "An army marches on its stomach. You had to find supplies by whatever means necessary.\\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Villainy.</i>",
-    "translation": "军队是铁，饭是钢。你得不择手段地寻找物资。\\r\\n\\r\\n<i>增加你的纱值，它是隐蔽和欺骗的技巧，并使你从属于犯罪者。</i>",
-    "stage": 1
+    "translation": "军队是铁，饭是钢。你得不择手段地寻找物资。\\r\\n\\r\\n<i>增加你的面纱值，它是隐蔽和欺骗的技巧，并使你从属于犯罪者。</i>"
   },
   {
     "key": "ui267",
     "original": "In the Commissariat",
-    "translation": "在军需处",
-    "stage": 1
+    "translation": "在军需处"
   },
   {
     "key": "ui268",
     "original": "You were a sapper, a mechanic, an architect, an inventor – all while shells fell and bullets flew.\\r\\n\\r\\n<i>Increases your Mirrors, the skill of investigating and deducing, and affiliates you with Establishment.</i>",
-    "translation": "你是工兵，是机械师，是建筑师，是发明家——而在你头顶，弹片飞落，子弹呼啸。\\r\\n\\r\\n<i>增加你的镜值，它是调查和推理的技巧，并使你从属于权贵。</i>",
-    "stage": 1
+    "translation": "你是工兵，是机械师，是建筑师，是发明家——而在你头顶，弹片飞落，子弹呼啸。\\r\\n\\r\\n<i>增加你的镜子值，它是调查和推理的技巧，并使你从属于权贵。</i>"
   },
   {
     "key": "ui269",
     "original": "In the Corps of Royal Engineers",
-    "translation": "在皇家工兵部队",
-    "stage": 1
+    "translation": "在皇家工兵部队"
   },
   {
     "key": "ui270",
     "original": "You served in the Blues, conducting labyrinthine ceremonial duties and defending Her Majesty's person.\\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Bohemia.</i>",
-    "translation": "你在蓝色军团服役，执行无比繁琐的仪仗任务，保卫女王陛下的人身安全。\\r\\n\\r\\n<i>增加你的心值，它是说服和生存的技巧，并使你从属于艺术家。</i>",
-    "stage": 1
+    "translation": "你在蓝色军团服役，执行无比繁琐的仪仗任务，保卫女王陛下的人身安全。\\r\\n\\r\\n<i>增加你的红心值，它是说服和生存的技巧，并使你从属于艺术家。</i>"
   },
   {
     "key": "ui271",
     "original": "In the Royal Horse Guards",
-    "translation": "在皇家骑兵卫队",
-    "stage": 1
+    "translation": "在皇家骑兵卫队"
   },
   {
     "key": "ui272",
     "original": "You were a poet.\\n\\nPoetry was popular in Old London. Some poets sought fame, others art. Some simply enjoyed Bohemian company.  \\r\\n\\r\\nThree pre-eminent artistic movements have come to prominence. \\r\\n\\r\\nWhich are your works most associated with?",
-    "translation": "你是个诗人。\\n\\n诗歌在旧伦敦很流行。有些诗人追求名声，有些追求艺术。有些人只是享受放荡不羁的伙伴们。\\r\\n\\r\\n最近，三波显眼的艺术运动崭露头角。\\r\\n\\r\\n你的作品与哪一个关系最大？",
-    "stage": 1
+    "translation": "你是个诗人。\\n\\n诗歌在旧伦敦很流行。有些诗人追求名声，有些追求艺术。有些人只是享受放荡不羁的伙伴们。\\r\\n\\r\\n最近，三波显眼的艺术运动崭露头角。\\r\\n\\r\\n你的作品与哪一个关系最大？"
   },
   {
     "key": "ui273",
     "original": "A new tradition, born in the Empress' Court. Their works are patriotic, bombastic, and occupied with the iconography of time: clocks and seasons and sand and so forth. \\r\\n\\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Bohemia.</i>",
-    "translation": "一种新的传统，诞生于女皇的宫廷。他们的作品有爱国色彩，轰轰烈烈，并充斥着时间的意象：时钟、季节和沙子等等。 \\r\\n\\r\\n<i>增加你的铁值，它是战斗和取胜的技巧，并使你从属于艺术家。</i>",
-    "stage": 1
+    "translation": "一种新的传统，诞生于女皇的宫廷。他们的作品有爱国色彩，轰轰烈烈，并充斥着时间的意象：时钟、季节和沙子等等。 \\r\\n\\r\\n<i>增加你的钢铁值，它是战斗和取胜的技巧，并使你从属于艺术家。</i>"
   },
   {
     "key": "ui274",
     "original": "The Sovereign School",
-    "translation": "君主派",
-    "stage": 1
+    "translation": "君主派"
   },
   {
     "key": "ui275",
     "original": "A radical, outlawed school that delights in freedoms found in the dark. \\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Bohemia.</i>",
-    "translation": "一个激进违法的学派，享受着处于黑暗中的自由。 \\r\\n\\r\\n<i>增加你的纱值，它是隐蔽和欺骗的技巧，并使你从属于艺术家。</i>",
-    "stage": 1
+    "translation": "一个激进违法的学派，享受着处于黑暗中的自由。 \\r\\n\\r\\n<i>增加你的面纱值，它是隐蔽和欺骗的技巧，并使你从属于艺术家。</i>"
   },
   {
     "key": "ui276",
     "original": "The Nocturnals",
-    "translation": "夜行者",
-    "stage": 1
+    "translation": "夜行者"
   },
   {
     "key": "ui277",
     "original": "In Old London, they wrote nostalgically of the Surface and the Sun. Now, they write of the Stars, and the Treasures of Heaven. \\r\\n\\r\\n<i>Increases your Mirrors, the skill of investigating and deducing, and affiliates you with Bohemia.</i>",
-    "translation": "在旧伦敦，他们怀旧地书写地上世界和太阳。如今，他们书写群星，和天堂的宝藏。 \\r\\n\\r\\n<i>增加你的镜值，它是调查和推理的技巧，并使你从属于艺术家。</i>",
-    "stage": 1
+    "translation": "在旧伦敦，他们怀旧地书写地上世界和太阳。如今，他们书写群星，和天堂的宝藏。 \\r\\n\\r\\n<i>增加你的镜子值，它是调查和推理的技巧，并使你从属于艺术家。</i>"
   },
   {
     "key": "ui278",
     "original": "The Celestials",
-    "translation": "天体派",
-    "stage": 1
+    "translation": "天体派"
   },
   {
     "key": "ui279",
     "original": "You were an academic.\\n\\nPerhaps you were educated at one of the esteemed colleges of Benthic or Somerset. \\r\\n\\r\\nPerhaps you taught yourself, through trial and error and grit. \\r\\n\\r\\nBut what was your field of study?",
-    "translation": "你是个学者。\\n\\n或许你曾在本瑟或森麻实的名牌学府就读。\\r\\n\\r\\n或许你通过尝试、纠错和坚持自学成才。\\r\\n\\r\\n那么，你研究的是什么领域？",
-    "stage": 1
+    "translation": "你是个学者。\\n\\n或许你曾在本瑟或森麻实的名牌学府就读。\\r\\n\\r\\n或许你通过尝试、纠错和坚持自学成才。\\r\\n\\r\\n那么，你研究的是什么领域？"
   },
   {
     "key": "ui280",
     "original": "Once the most indulgent of studies, now the most seditious. The Ministry of Public Decency has gutted the libraries.\\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Academe.</i>",
-    "translation": "曾是所有学问中最放荡不羁的一门，现在则是最为反动。公德部已将所有图书馆尽数破坏。\\r\\n\\r\\n<i>增加你的纱值，它是隐蔽和欺骗的技巧，并使你从属于学者。</i>",
-    "stage": 1
+    "translation": "曾是所有学问中最放荡不羁的一门，现在则是最为反动。公德部已将所有图书馆尽数破坏。\\r\\n\\r\\n<i>增加你的面纱值，它是隐蔽和欺骗的技巧，并使你从属于学者。</i>"
   },
   {
     "key": "ui281",
     "original": "Literature",
-    "translation": "文学",
-    "stage": 0
+    "translation": "文学"
   },
   {
     "key": "ui282",
     "original": "They call it the Correspondence, the oldest of alphabets. It is maddening, revelatory, and occasionally inflammatory.\\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Academe.</i>",
-    "translation": "他们叫它信符，是最古老的字母表。它使人疯狂，赐人启迪，有时还会把人点着。\\r\\n\\r\\n<i>增加你的心值，它是说服和生存的技巧，并使你从属于学者。</i>",
-    "stage": 1
+    "translation": "他们叫它信符，是最古老的字母表。它使人疯狂，赐人启迪，有时还会把人点着。\\r\\n\\r\\n<i>增加你的红心值，它是说服和生存的技巧，并使你从属于学者。</i>"
   },
   {
     "key": "ui283",
     "original": "The language of the heavens",
-    "translation": "天空的语言",
-    "stage": 1
+    "translation": "天空的语言"
   },
   {
     "key": "ui284",
     "original": "Engineering. Chemistry. Anatomy. Everything you need to break something apart and put it back together again.\\r\\n\\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Academe.</i>",
-    "translation": "工程学。化学。解剖学。把东西拆开再拼回去所需的一切学问。\\r\\n\\r\\n<i>增加你的铁值，它是战斗和取胜的技巧，并使你从属于学者。</i>",
-    "stage": 1
+    "translation": "工程学。化学。解剖学。把东西拆开再拼回去所需的一切学问。\\r\\n\\r\\n<i>增加你的钢铁值，它是战斗和取胜的技巧，并使你从属于学者。</i>"
   },
   {
     "key": "ui285",
     "original": "The practical sciences",
-    "translation": "实践科学",
-    "stage": 1
+    "translation": "实践科学"
   },
   {
     "key": "ui286",
     "original": "You were a priest.\\n\\nYou preached the word, and brought the needs of the world before the Church in intercession. \\r\\n\\r\\nBut besides God Almighty, to whom did you answer?",
-    "translation": "你是一位牧师。\\n\\n你传播真道，在教会面前代祷世界的所需。\\r\\n\\r\\n但在全能的上帝之外，你还听谁的指令？",
-    "stage": 1
+    "translation": "你是一位牧师。\\n\\n你传播真道，在教会面前代祷世界的所需。\\r\\n\\r\\n但在全能的上帝之外，你还听谁的指令？"
   },
   {
     "key": "ui287",
     "original": "Sisyphus had it easy. He never had to contend with Mrs Quigg.\\r\\n\\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Bohemia.</i>",
-    "translation": "西西佛斯多轻松啊，他都不用和奎格太太争辩。\\r\\n\\r\\n<i>增加你的铁值，它是战斗和取胜的技巧，并使你从属于艺术家。</i>",
-    "stage": 1
+    "translation": "西西佛斯多轻松啊，他都不用和奎格太太争辩。\\r\\n\\r\\n<i>增加你的钢铁值，它是战斗和取胜的技巧，并使你从属于艺术家。</i>"
   },
   {
     "key": "ui288",
     "original": "Your parishioners",
-    "translation": "你教区的居民",
-    "stage": 1
+    "translation": "你教区的居民"
   },
   {
     "key": "ui289",
     "original": "It was illegal to hunt or harass devils. They were citizens of London, like you. But the Bishop did not care.\\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Villainy.</i>",
-    "translation": "猎杀或骚扰魔鬼是违法行为，他们和你一样是伦敦公民。但这位主教可不管这些。\\r\\n\\r\\n<i>增加你的纱值，它是隐蔽和欺骗的技巧，并使你从属于犯罪者。</i>",
-    "stage": 1
+    "translation": "猎杀或骚扰魔鬼是违法行为，他们和你一样是伦敦公民。但这位主教可不管这些。\\r\\n\\r\\n<i>增加你的面纱值，它是隐蔽和欺骗的技巧，并使你从属于犯罪者。</i>"
   },
   {
     "key": "ui290",
     "original": "The Bishop of Southwark",
-    "translation": "南华克主教",
-    "stage": 1
+    "translation": "南华克主教"
   },
   {
     "key": "ui291",
     "original": "The New Sequence was a young creed, then. Now it has spread to the highest offices of the Church, with Her Majesty's blessing.\\r\\n\\r\\n<i>Increases your Mirrors, the skill of investigating and deducing, and affiliates you with Establishment.</i>",
-    "translation": "新秩序曾是个年轻的结社。如今它已经被传至国教的最高层，获赐女王的祝福。\\r\\n\\r\\n<i>增加你的镜值，它是调查和推理的技巧，并使你从属于权贵。</i>",
-    "stage": 1
+    "translation": "新秩序曾是个年轻的结社。如今它已经被传至国教的最高层，获赐女王的祝福。\\r\\n\\r\\n<i>增加你的镜子值，它是调查和推理的技巧，并使你从属于权贵。</i>"
   },
   {
     "key": "ui292",
     "original": "A Bright-Eyed Sequencer",
-    "translation": "眼光灼人的新秩序成员",
-    "stage": 1
+    "translation": "眼光灼人的新秩序成员"
   },
   {
     "key": "ui293",
     "original": "You were a zee-captain.\\n\\nYou remember bats winging across the still, black sea. The distant lights of London, calling you home. Salty prayers offered to heedless gods. \\r\\n\\r\\nIt was a hard life, and often a short one, but you made your mark. \\r\\n\\r\\nWhat were you known for?",
-    "translation": "你曾是一位地下海船长。\\n\\n你记得静止的黑海上飞翔的蝙蝠。远方伦敦呼唤你回家的灯光。向漠然的神灵献上的粗俗祷词。\\r\\n\\r\\n那是种艰苦的生活，而且往往相当短暂，但你却获得了名望。\\r\\n\\r\\n你因什么而闻名？",
-    "stage": 1
+    "translation": "你曾是一位海泽船长。\\n\\n你记得静止的黑海上飞翔的蝙蝠。远方伦敦呼唤你回家的灯光。向漠然的神灵献上的粗俗祷词。\\r\\n\\r\\n那是种艰苦的生活，而且往往相当短暂，但你却获得了名望。\\r\\n\\r\\n你因什么而闻名？"
   },
   {
     "key": "ui294",
     "original": "You were a merchant. A precarious life, lived on the knife-edge between fortune and ruin.\\r\\n\\r\\n<i>Increases your Mirrors, the skill of investigating and deducing, and affiliates you with Bohemia.</i>",
-    "translation": "你是个商人，在财富和毁灭之间的刀刃上过着冒险的生活。\\r\\n\\r\\n<i>增加你的镜值，它是调查和推理的技巧，并使你从属于艺术家。</i>",
-    "stage": 1
+    "translation": "你是个商人，在财富和毁灭之间的刀刃上过着冒险的生活。\\r\\n\\r\\n<i>增加你的镜子值，它是调查和推理的技巧，并使你从属于艺术家。</i>"
   },
   {
     "key": "ui295",
     "original": "You bought and you sold",
-    "translation": "你从事买卖",
-    "stage": 1
+    "translation": "你从事买卖"
   },
   {
     "key": "ui296",
     "original": "Yours were far, lonely journeys. You endured nameless hardships. You rallied your crew in the face of utmost uncertainty.\\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Academe.</i>",
-    "translation": "你们的旅程遥远又孤单。你们忍受着无名的艰难困苦。你召集船员，面对完全未知的世界。\\r\\n\\r\\n<i>增加你的心值，它是说服和生存的技巧，并使你从属于学者。</i>",
-    "stage": 1
+    "translation": "你们的旅程遥远又孤单。你们忍受着无名的艰难困苦。你召集列车员，面对完全未知的世界。\\r\\n\\r\\n<i>增加你的红心值，它是说服和生存的技巧，并使你从属于学者。</i>"
   },
   {
     "key": "ui297",
     "original": "You explored",
-    "translation": "你探索远方",
-    "stage": 1
+    "translation": "你探索远方"
   },
   {
     "key": "ui298",
     "original": "Her Majesty's navy had a great many opinions on what should and shouldn't be sold in her territories. Your own opinions were rather different.\\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Villainy.</i>",
-    "translation": "女王陛下的海军对一样东西能否在她的领土上出售有很多意见。你自己的意见则相当不同。\\r\\n\\r\\n<i>增加你的纱值，它是隐蔽和欺骗的技巧，并使你从属于犯罪者。</i>",
-    "stage": 1
+    "translation": "女王陛下的海军对一样东西能否在她的领土上出售有很多意见。你自己的意见则相当不同。\\r\\n\\r\\n<i>增加你的面纱值，它是隐蔽和欺骗的技巧，并使你从属于犯罪者。</i>"
   },
   {
     "key": "ui299",
     "original": "You smuggled",
-    "translation": "你偷渡货物",
-    "stage": 1
+    "translation": "你偷渡货物"
   },
   {
     "key": "ui300",
     "original": "You were an Auditor.\\n\\nThe Ministry is responsible for the promotion and preservation of British culture. \\r\\n\\r\\nIt is a sprawling, many-branched institution. \\r\\n\\r\\nTo which department were you appointed?",
-    "translation": "你是一名审计员。\\n\\n公德部负责促进和保护英国文化。\\r\\n\\r\\n它是个庞杂的、分支繁多的机构。\\r\\n\\r\\n你在哪个部门任职？",
-    "stage": 1
+    "translation": "你是一名审计员。\\n\\n公德部负责促进和保护英国文化。\\r\\n\\r\\n它是个庞杂的、分支繁多的机构。\\r\\n\\r\\n你在哪个部门任职？"
   },
   {
     "key": "ui301",
     "original": "Why censor when you can correct? A revised word here; an omitted sentence there. Now the whole page says something different; something less troublesome.\\r\\n\\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Establishment.</i>",
-    "translation": "可以纠正的时候为什么要审查？这里修改一个词；那里删除一句话。现在整页纸表达的就是完全不同的观点；不那么麻烦的观点。\\r\\n\\r\\n<i>增加你的铁值，它是战斗和取胜的技巧，并使你从属于权贵。</i>",
-    "stage": 1
+    "translation": "可以纠正的时候为什么要审查？这里修改一个词；那里删除一句话。现在整页纸表达的就是完全不同的观点；不那么麻烦的观点。\\r\\n\\r\\n<i>增加你的钢铁值，它是战斗和取胜的技巧，并使你从属于权贵。</i>"
   },
   {
     "key": "ui302",
     "original": "The Department of Corrections",
-    "translation": "纠错部",
-    "stage": 1
+    "translation": "纠错部"
   },
   {
     "key": "ui303",
     "original": "Their task is to determine what constitutes 'Britishness', and identify threats to it.\\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Establishment.</i>",
-    "translation": "他们的任务是确定什么是\"不列颠性\"，并识别威胁它的东西。\\r\\n\\r\\n<i>增加你的心值，它是说服和生存的技巧，并使你从属于权贵。</i>",
-    "stage": 1
+    "translation": "他们的任务是确定什么是\"不列颠性\"，并识别威胁它的东西。\\r\\n\\r\\n<i>增加你的红心值，它是说服和生存的技巧，并使你从属于权贵。</i>"
   },
   {
     "key": "ui304",
     "original": "The Department of Sensibility",
-    "translation": "感知部",
-    "stage": 1
+    "translation": "感知部"
   },
   {
     "key": "ui305",
     "original": "The Office ingests raw information before it can reach vulnerable citizens, then regurgitates it in terms they should find less distressing.\\r\\n\\r\\n<i>Increases your Veils, the skill of deceiving and evading, and affiliates you with Establishment.</i>",
-    "translation": "该办公室在易受影响的公民接触原始信息之前就将其爬取，然后用对他们来说不那么可怕的措辞进行转述。\\r\\n\\r\\n<i>增加你的纱值，它是隐蔽和欺骗的技巧，并使你从属于权贵。</i>",
-    "stage": 1
+    "translation": "该办公室在易受影响的公民接触原始信息之前就将其爬取，然后用对他们来说不那么可怕的措辞进行转述。\\r\\n\\r\\n<i>增加你的面纱值，它是隐蔽和欺骗的技巧，并使你从属于权贵。</i>"
   },
   {
     "key": "ui306",
     "original": "The Information Office",
-    "translation": "信息署",
-    "stage": 1
+    "translation": "信息署"
   },
   {
     "key": "ui307",
     "original": "You were a revolutionary.\\n\\nThe law offered you no protection. \\r\\n\\r\\nThe engines of the state were set against that which you knew to be just. \\r\\n\\r\\nSo how did you resist?",
-    "translation": "你是个革命家。\\n\\n法律不会袒护你。\\r\\n\\r\\n国家机器与你眼中的正义相互敌对。\\r\\n\\r\\n那么，你如何抵抗？",
-    "stage": 1
+    "translation": "你是个革命家。\\n\\n法律不会袒护你。\\r\\n\\r\\n国家机器与你眼中的正义相互敌对。\\r\\n\\r\\n那么，你如何抵抗？"
   },
   {
     "key": "ui308",
     "original": "Art travels swiftly. It cannot be imprisoned. It cannot be hanged.\\r\\n\\r\\n<i>Increases your Hearts, the skill of convincing and enduring, and affiliates you with Bohemia.</i>",
-    "translation": "艺术日行千里。它不会被禁锢，也不会被绞死。\\r\\n\\r\\n<i>增加你的心值，它是说服和生存的技巧，并使你从属于艺术家。</i>",
-    "stage": 1
+    "translation": "艺术日行千里。它不会被禁锢，也不会被绞死。\\r\\n\\r\\n<i>增加你的红心值，它是说服和生存的技巧，并使你从属于艺术家。</i>"
   },
   {
     "key": "ui309",
     "original": "With your art",
-    "translation": "用你的艺术",
-    "stage": 0
+    "translation": "用你的艺术"
   },
   {
     "key": "ui310",
     "original": "Lies are the tools of tyrants. You published research to expose those lies, and illuminate injustice.\\r\\n\\r\\n<i>Increases your Mirrors, the skill of investigating and deducing, and affiliates you with Academe.</i>",
-    "translation": "谎言是暴君的工具。你发表的研究揭穿了这些谎言，并暴露出社会的不公。\\r\\n\\r\\n<i>增加你的镜值，它是调查和推理的技巧，并使你从属于学者。</i>",
-    "stage": 1
+    "translation": "谎言是暴君的工具。你发表的研究揭穿了这些谎言，并暴露出社会的不公。\\r\\n\\r\\n<i>增加你的镜子值，它是调查和推理的技巧，并使你从属于学者。</i>"
   },
   {
     "key": "ui311",
     "original": "With your mind",
-    "translation": "用你的思想",
-    "stage": 0
+    "translation": "用你的思想"
   },
   {
     "key": "ui312",
     "original": "You marched. And when marching wasn't enough, you fought.\\r\\n\\r\\n<i>Increases your Iron, the skill of confronting and overcoming, and affiliates you with Villainy.</i>",
-    "translation": "你们游行。等到游行也不够的时候，你们斗争。\\r\\n\\r\\n<i>增加你的铁值，它是战斗和取胜的技巧，并使你从属于犯罪者。</i>",
-    "stage": 1
+    "translation": "你们游行。等到游行也不够的时候，你们斗争。\\r\\n\\r\\n<i>增加你的钢铁值，它是战斗和取胜的技巧，并使你从属于犯罪者。</i>"
   },
   {
     "key": "ui313",
     "original": "With your feet and your fists",
-    "translation": "用你的拳脚",
-    "stage": 1
+    "translation": "用你的拳脚"
   },
   {
     "key": "ui314",
     "original": "Choose an ambition.\\n\\nWhat does winning mean to you?",
-    "translation": "选择一个夙愿。\\n\\n胜利对你意味着什么？",
-    "stage": 1
+    "translation": "选择一个野心。\\n\\n胜利对你意味着什么？"
   },
   {
     "key": "ui315",
     "original": "Many have made their fortunes out among the stars. Many more have failed, broken and lost in the drifting night. Will you be different?\\r\\n\\r\\n<i>To win, gather a substantial retirement fund, acquire lodgings at a hub port, and retire.</i>",
-    "translation": "许多人在星空中发了财。更多的人失败了，在漂泊的夜里伤心迷失。你会有所不同吗？\\r\\n\\r\\n<i>要想获胜，先赚取一大笔退休金，在一个枢纽港口置办住处，然后退休。</i>",
-    "stage": 1
+    "translation": "许多人在星空中发了财。更多的人失败了，在漂泊的夜里伤心迷失。你会有所不同吗？\\r\\n\\r\\n<i>要想获胜，先赚取一大笔退休金，在一个枢纽港口置办住处，然后退休。</i>"
   },
   {
     "key": "ui316",
     "original": "Wealth",
-    "translation": "财富",
-    "stage": 0
+    "translation": "财富"
   },
   {
     "key": "ui317",
     "original": "You ran souls and sunlight to Gaider's Mourn and the Isle of Cats. You sailed, lampless, through the concealing dark. You lurked in hidden coves while the excisemen passed by. ",
-    "translation": "你把灵魂和阳光运往加德的哀悼和猫岛。你关上灯光，在遮掩行踪的黑暗中航行。执法官经过时，你藏身于隐秘的海湾中。",
-    "stage": 1
+    "translation": "你把灵魂和阳光运往加德的哀悼和猫岛。你关上灯光，在遮掩行踪的黑暗中航行。执法官经过时，你藏身于隐秘的海湾中。"
   },
   {
     "key": "ui318",
     "original": "You remember bats winging across the still, black sea. The distant lights of London, calling you home. Salty prayers offered to heedless gods. \\r\\n\\r\\nIt was a hard life, and often a short one, but you made your mark. \\r\\n\\r\\nWhat were you known for?",
-    "translation": "你记得静止的黑海上飞翔的蝙蝠。远方伦敦呼唤你回家的灯光。向漠然的神灵献上的粗俗祷词。\\r\\n\\r\\n那是种艰苦的生活，而且往往相当短暂，但你却获得了名望。\\r\\n\\r\\n你因什么而闻名？",
-    "stage": 1
+    "translation": "你记得静止的黑海上飞翔的蝙蝠。远方伦敦呼唤你回家的灯光。向漠然的神灵献上的粗俗祷词。\\r\\n\\r\\n那是种艰苦的生活，而且往往相当短暂，但你却获得了名望。\\r\\n\\r\\n你因什么而闻名？"
   },
   {
     "key": "ui319",
     "original": "You were a zee-captain.",
-    "translation": "你曾是一位地下海船长。",
-    "stage": 1
+    "translation": "你曾是一位海泽船长。"
   },
   {
     "key": "ui320",
     "original": "The more Crew you have, the more Supplies you consume.",
-    "translation": "你拥有的船员越多，消耗的物资就越多。",
-    "stage": 1
+    "translation": "你拥有的列车员越多，消耗的物资就越多。"
   },
   {
     "key": "ui321",
     "original": "Your hull is a little worse for wear. Try to repair it soon. You can do this for a small fee at New Winchester and certain other ports, or, sometimes, by salvaging from the wrecks of your opponents.",
-    "translation": "你的船体有点破损了。试着尽快修复它。若要这么做，你可以在新温彻斯特和其他特定港口花点小钱，或者，偶尔，从你对手的残骸中搜刮。",
-    "stage": 1
+    "translation": "你的车体有点破损了。试着尽快修复它。若要这么做，你可以在新温彻斯特和其他特定港口花点小钱，或者，偶尔，从你对手的残骸中搜刮。"
   },
   {
     "key": "ui322",
     "original": "[<#FFD27C>R</color>] Undock",
-    "translation": "[<#FFD27C>R</color>]离站",
-    "stage": 0
+    "translation": "[<#FFD27C>R</color>]离站"
   },
   {
     "key": "ui323",
     "original": "Your scout has discovered something! To see what it is, open your chart.",
-    "translation": "你的侦察员发现了一些东西!要看它是什么，请打开你的图表。",
-    "stage": 0
+    "translation": "你的探子发现了一些东西! 要查看它是什么，请打开你的地图。"
   },
   {
     "key": "ui324",
     "original": "Scouts",
-    "translation": "侦查员",
-    "stage": 1
+    "translation": "侦查员"
   },
   {
     "key": "ui325",
     "original": "[<#FFD27C>R</color>] Loot",
-    "translation": "[<#FFD27C>R</color>]战利品",
-    "stage": 0
+    "translation": "[<#FFD27C>R</color>]战利品"
   },
   {
     "key": "ui326",
     "original": "Hull Damage",
-    "translation": "车体伤害",
-    "stage": 1
+    "translation": "车体伤害"
   },
   {
     "key": "ui327",
     "original": "You now have {{A}} x Sovereigns",
-    "translation": "你现在有了 {{A}} x 金镑",
-    "stage": 1
+    "translation": "你现在拥有 {{A}} x 金镑"
   },
   {
     "key": "ui328",
     "original": "You've lost {{A}} x Sovereigns (new total {{B}}).",
-    "translation": "你失去了 {{A}} x 金镑 (现在共有{{B}}).",
-    "stage": 1
+    "translation": "你失去了 {{A}} x 金镑 (现在共有{{B}})."
   },
   {
     "key": "ui329",
     "original": "You've gained {{A}} x Hull (new total {{B}}).",
-    "translation": "你获得了 {{A}} x 车体 (现在共有{{B}}).",
-    "stage": 1
+    "translation": "你获得了 {{A}} x 车体 (现在共有{{B}})."
   },
   {
     "key": "ui330",
     "original": "You now have {{A}} x Supplies",
-    "translation": "你现在有了{{A}} x 补给",
-    "stage": 1
+    "translation": "你现在拥有 {{A}} x 补给"
   },
   {
     "key": "ui331",
     "original": "You now have {{A}} x Diffident Bat",
-    "translation": "你现在有了 {{A}} x 胆怯的蝙蝠",
-    "stage": 1
+    "translation": "你现在拥有 {{A}} x 胆怯的蝙蝠"
   },
   {
     "key": "ui332",
     "original": "You now have {{A}} x Cotterell & Hathersage 'Jerusalem'",
-    "translation": "你现在有了{{A}} x 卡特洛尔 & 哈瑟萨奇 '耶路撒冷型'",
-    "stage": 1
+    "translation": "你现在拥有 {{A}} x 卡特洛尔 & 哈瑟萨奇 '耶路撒冷型'"
   },
   {
     "key": "ui333",
     "original": "<i>Another crewmember, lost...</i>",
-    "translation": "<i>又一名列车成员遇难了...</i>",
-    "stage": 1
+    "translation": "<i>又一名列车成员遇难了...</i>"
   },
   {
     "key": "ui334",
     "original": "You've lost {{A}} x Crew (new total {{B}}).",
-    "translation": "你失去了 {{A}} x 列车员 (现在共有{{B}}).",
-    "stage": 1
+    "translation": "你失去了 {{A}} x 列车员 (现在共有{{B}})."
   },
   {
     "key": "ui335",
     "original": "Discovering a new port for the first time will reduce your Terror. ",
-    "translation": "首次发现新港口将降低恐惧。",
-    "stage": 1
+    "translation": "首次发现新港口将降低恐惧。"
   },
   {
     "key": "ui336",
     "original": "{{A}} Experience Gained",
-    "translation": "获得了 {{A}} 经验",
-    "stage": 1
+    "translation": "获得了 {{A}} 经验"
   },
   {
     "key": "ui337",
     "original": "You've gained {{A}} x Terror (new total {{B}}).",
-    "translation": "你获得了 {{A}} x 恐惧 (现在共有{{B}}).",
-    "stage": 1
+    "translation": "你获得了 {{A}} x 恐惧 (现在共有{{B}})."
   },
   {
     "key": "ui338",
     "original": "You've gained {{A}} x Supplies (new total {{B}}).",
-    "translation": "你获得了 {{A}} x 补给 (现在共有{{B}}).",
-    "stage": 1
+    "translation": "你获得了 {{A}} x 补给 (现在共有{{B}})."
   },
   {
     "key": "ui339",
     "original": "You've lost {{A}} x Hull (new total {{B}}).",
-    "translation": "你失去了 {{A}} x 车体 (现在共有{{B}}).",
-    "stage": 1
+    "translation": "你失去了 {{A}} x 车体 (现在共有{{B}})."
   },
   {
     "key": "ui340",
-    "original": "<size\\=75%>March 15th, 1905</size>\\nYour scout relays its findings.",
-    "translation": "<size\\=75%>3月15日,1905年</size>\\n你的侦察员报告了它的发现。",
-    "stage": 1
+    "original": "dummydummy",
+    "translation": "占位符"
   },
   {
     "key": "ui341",
     "original": "{{A}} crates in hold. \\n{{B}}% remaining in current crate.",
-    "translation": "{{A}}板条箱的持有量。 \\n当前板条箱中剩余的{{B}}%。",
-    "stage": 0
+    "translation": "货舱中剩余{{A}}箱。 \\n这一箱中还剩{{B}}%。"
   },
   {
     "key": "ui342",
     "original": "Supplies",
-    "translation": "补给",
-    "stage": 1
+    "translation": "补给"
   },
   {
     "key": "ui343",
     "original": "On long journeys, activate your locomotive's cruise control. ",
-    "translation": "在长途航行中, 启动机车的巡航控制.",
-    "stage": 1
+    "translation": "在长途旅行中，启动你的机车的巡航控制。"
   },
   {
     "key": "ui344",
     "original": "A wreck drifts here, less fortunate even than you. \"We should scavenge her for repairs,\" a crewman suggests.",
-    "translation": "一艘残骸漂浮在这里，甚至比你还倒霉。\"我们应该从她身上搜刮修理用的零件，\"一个车员建议。",
-    "stage": 1
+    "translation": "一艘残骸漂浮在这里，甚至比你还倒霉。\"我们应该从她身上搜刮修理用的零件，\"一个列车员建议。"
   },
   {
     "key": "ui345",
     "original": "As First Officer, the crew look to you. The nearest station is New Winchester. Can you get the <i>Orphean</i> there safely?",
-    "translation": "作为大副, 列车员们都指望着你. 最近的站点是新温彻斯特. 你能不能让 <i>俄耳甫斯号</i> 安全抵达那里?",
-    "stage": 1
+    "translation": "作为大副, 列车员们都指望着你. 最近的站点是新温彻斯特. 你能不能让 <i>俄耳甫斯号</i> 安全抵达那里?"
   },
   {
     "key": "ui346",
     "original": "You have returned to the Reach: an untamed, sunless span of the heavens. London's new frontier. A celestial garden run wild.",
-    "translation": "你已回到外野：一片不羁的、无光的天空。伦敦的新边疆。一座野蛮生长的星际花园。",
-    "stage": 1
+    "translation": "你已回到外野：一片不羁的、无光的天空。伦敦的新边疆。一座野蛮生长的星际花园。"
   },
   {
     "key": "ui347",
     "original": "Your journey back from the Blue Kingdom was tumultuous. Your locomotive is damaged, and Captain Whitlock badly wounded.",
-    "translation": "你们从蓝色王国的归程动荡不安。你们的机车受损了，惠特洛克车长也受了重伤。",
-    "stage": 1
+    "translation": "你们从蓝色王国的归程动荡不安。你们的机车受损了，惠特洛克车长也受了重伤。"
   },
   {
     "key": "ui348",
     "original": "Press        to send out your scout\\n(costs Supplies)",
-    "translation": "按        派出你的探子\\n(消耗补给)",
-    "stage": 1
+    "translation": "按        派出你的斥候\\n(消耗补给)"
   },
   {
     "key": "ui349",
-    "original": "\\nMuch to the relief of your stokers, you find a barrel of fuel among the detritus.",
-    "translation": "<size\\=75%>1905 年 3 月 16 日</size>\\n令你的司炉们松了一口气的是，你在碎石中发现了一桶燃料。",
-    "stage": 0
+    "original": "dummydummy",
+    "translation": "占位符"
   },
   {
     "key": "ui350",
     "original": "Captain Whitlock's Legacy",
-    "translation": "惠特洛克船长的遗产",
-    "stage": 0
+    "translation": "惠特洛克车长的遗产"
   },
   {
     "key": "ui351",
     "original": "Before you leave New Winchester, it may be prudent to buy more Supplies. You can buy them at the Victoria Market. To visit the market, select it from the menu that appears to the left of the main panel. Here, you can swap between Shops and Stories.",
-    "translation": "在你离开新温彻斯特之前，为谨慎起见，你可能要购买更多物资。你可以在维多利亚市场买到它们。要访问市场，请从主面板左边的菜单中选择它。在这里，你可以在商店和故事之间来回切换。",
-    "stage": 1
+    "translation": "在你离开新温彻斯特之前，为谨慎起见，你可能要购买更多物资。你可以在维多利亚市场买到它们。要访问市场，请从主面板左边的菜单中选择它。在这里，你可以在商店和故事之间来回切换。"
   },
   {
     "key": "ui352",
     "original": "Provisioning",
-    "translation": "供应",
-    "stage": 0
+    "translation": "供应"
   },
   {
     "key": "ui353",
     "original": "In addition to your ordinary crew, you now have an officer, or perhaps a mascot. Officers must be appointed before you can benefit from their skills, abilities, or animal charisma. The first officer you recruit for each role will automatically be appointed. To change officers, open the Officers panel while in port.",
-    "translation": "除了你的普通船员之外，你现在还有一位车务官，或是一个吉祥物。你必须先任命车务官，才能从他们的技能、能力或动物的魅力中获益。你为每个职位招募的第一个车务官将被自动任命。要更换车务官，请在停泊于港口时打开车务官面板。",
-    "stage": 1
+    "translation": "除了你的普通船员之外，你现在还有一个车务官，或者说是一个吉祥物。在你能从他们的技能、能力或动物魅力中获益之前，必须先任命车务官。你为每个角色招募的第一个军官将被自动任命。要更换军官，在港口时打开军官面板。"
   },
   {
     "key": "ui354",
     "original": "Officers and Mascots",
-    "translation": "车务官和吉祥物",
-    "stage": 1
+    "translation": "车务官和吉祥物"
   },
   {
     "key": "ui355",
     "original": "You've gained {{A}} x Sovereigns (new total {{B}}).",
-    "translation": "你获得了{{A}} x 金镑（现在有{{B}}）。",
-    "stage": 1
+    "translation": "你获得了{{A}} x 金镑（现在有{{B}}）。"
   },
   {
     "key": "ui356",
     "original": "An occurrence! Your 'Crew' Quality is now {{A}}!",
-    "translation": "一次机遇! 你的 \"船员\" 特性现在是 {{A}}!",
-    "stage": 1
+    "translation": "一次机遇! 你的 \"列车员\" 特性现在是 {{A}}!"
   },
   {
     "key": "ui357",
     "original": "You now have {{A}} x Cryptic Benefactor",
-    "translation": "你现在有了{{A}} x 隐秘的人脉",
-    "stage": 1
+    "translation": "你现在拥有 {{A}} x 隐秘的人脉"
   },
   {
     "key": "ui358",
     "original": "More advanced engines enable Full Steam Mode, allowing you to go faster at an extra cost in fuel.",
-    "translation": "更先进的发动机可以启用全速模式，让你消耗更多燃料以更快速度前进。",
-    "stage": 1
+    "translation": "更先进的发动机可以启用全速模式，让你消耗更多燃料以更快速度前进。"
   },
   {
     "key": "ui359",
     "original": "The sun of Eleutheria has turned against its peers and plunged its domains into lawless night.",
-    "translation": "厄琉忒里亚的太阳与它的同僚们反目成仇，将它的领地投入无法无天的黑夜。",
-    "stage": 1
+    "translation": "厄琉忒里亚的太阳与它的同僚们反目成仇，将它的领地投入无法无天的黑夜。"
   },
   {
     "key": "ui360",
     "original": "Look out for Horrors, which cause Terror to rise more quickly, and Wonders, which reduce it.",
-    "translation": "留神寻找惊骇和奇观。惊骇会加速恐惧上升，而奇观会使其下降。",
-    "stage": 1
+    "translation": "留神寻找惊骇和奇观。惊骇会加速恐惧上升，而奇观会使其下降。"
   },
   {
     "key": "ui361",
-    "original": "<size\\=75%>March 17th, 1905</size>\\n\"There's the dock, captain,\" a signaller declares. The crew are relieved at the thought of solid land.",
-    "translation": "<size\\=75%>3月 16th, 1905</size>\\n雾霾的味道。铁与铁的声音。我们到家了。",
-    "stage": 0
+    "original": "Experience gained from discovering landmarks is passed on to all your future captains.",
+    "translation": "从发现地标中获得的经验会传给你未来所有的车长。"
   },
   {
     "key": "ui362",
-    "original": "Experience gained from discovering landmarks is passed on to all your future captains.",
-    "translation": "<size\\=75%>3月 17th, 1905</size>\\n\"船长，码头在那里，\"一个信号员宣布。一想到坚实的陆地，船员们都松了一口气。",
-    "stage": 0
+    "original": "You've gained {{A}} x Fuel (new total {{B}}).",
+    "translation": "你已经获得了{{A}} x 燃料（现在有{{B}}）。"
   },
   {
     "key": "ui363",
-    "original": "You've gained {{A}} x Fuel (new total {{B}}).",
-    "translation": "从发现地标中获得的经验会传给你未来所有的车长。",
-    "stage": 0
+    "original": "Enemies that ram can be persuaded to crash into terrain, or even other enemies.",
+    "translation": "冲撞攻击的敌人可以被诱导撞向地形，甚至其他敌人。"
   },
   {
     "key": "ui364",
-    "original": "Enemies that ram can be persuaded to crash into terrain, or even other enemies.",
-    "translation": "你已经获得了{{A}} x 燃料（现在有{{B}}）。",
-    "stage": 0
+    "original": "The Hillcrest Lodge",
+    "translation": "丘顶庄"
   },
   {
     "key": "ui365",
-    "original": "The Hillcrest Lodge",
-    "translation": "冲撞攻击的敌人可以被诱导撞向地形，甚至其他敌人。",
-    "stage": 0
+    "original": "An occurrence! Your 'Hull' Quality is now {{A}}!",
+    "translation": "一次机遇! 你的 \"车体\" 特性现在是{{A}}!"
   },
   {
     "key": "ui366",
-    "original": "<size\\=75%>March 15th, 1905</size>\\nA distant clamour of engine-yards. An accretion of smog on the windows.",
-    "translation": "丘顶庄",
-    "stage": 0
+    "original": "You unlocked this with {{A}} <b>Sovereigns</b> <i>(you needed {{B}})</i>",
+    "translation": "你用{{A}}解锁了这个 <b>金镑</b> <i>(你需要{{B}})</i>"
   },
   {
-    "key": "ui369",
-    "original": "Speed up <sprite name\\=\"key_w\">    Back <sprite name\\=\"key_esc\">",
-    "translation": "你用82解锁了这个 <b>金镑</b> <i>(你需要30)</i>",
-    "stage": 0
-  },
-  {
-    "key": "ui370",
-    "original": "Hide\\nAdvice",
-    "translation": "加速 <sprite name\\=\"key_w\">    返回 <sprite name\\=\"key_esc\">",
-    "stage": 0
-  },
-  {
-    "key": "ui371",
-    "original": "Disable\\nAdvice",
-    "translation": "隐藏建议",
-    "stage": 0
-  },
-  {
-    "key": "ui372",
-    "original": "<size\\=75%>March 15th, 1905</size>\\nWispy condensation trails cross the sky; the ghosts of passing trains.",
-    "translation": "禁用建议",
-    "stage": 0
-  },
-  {
-    "key": "ui373",
-    "original": "Horror",
-    "translation": "<size\\=75%>3月 15th, 1905</size>\\n飘渺的机尾云划过天空；过往机车的幽灵。",
-    "stage": 0
-  },
-  {
-    "key": "ui374",
-    "original": "Wonder",
-    "translation": "恐惧",
-    "stage": 0
-  },
-  {
-    "key": "ui375",
-    "original": "Platform",
-    "translation": "奇迹",
-    "stage": 0
-  },
-  {
-    "key": "ui376",
+    "key": "ui367",
     "original": "Station",
-    "translation": "平台",
-    "stage": 0
-  },
-  {
-    "key": "ui377",
-    "original": "Current Location",
-    "translation": "车站",
-    "stage": 0
-  },
-  {
-    "key": "ui378",
-    "original": "Legend",
-    "translation": "当前位置",
-    "stage": 0
-  },
-  {
-    "key": "ui379",
-    "original": "Something to Crave",
-    "translation": "传说",
-    "stage": 0
+    "translation": "车站"
   },
   {
     "key": "ui368",
-    "original": "You unlocked this with {{A}} <b>Sovereigns</b> <i>(you needed {{B}})</i>",
-    "translation": "你用{{A}}解锁了这个 <b>金镑</b> <i>(你需要{{B}})</i>",
-    "stage": 0
+    "original": "Current Location",
+    "translation": "当前位置"
+  },
+  {
+    "key": "ui369",
+    "original": "Legend",
+    "translation": "传说"
+  },
+  {
+    "key": "ui370",
+    "original": "Something to Crave",
+    "translation": "渴慕"
+  },
+  {
+    "key": "ui371",
+    "original": "Something that Glisters",
+    "translation": "财富"
+  },
+  {
+    "key": "ui372",
+    "original": "Something Grave",
+    "translation": "肃穆"
+  },
+  {
+    "key": "ui373",
+    "original": "Something Ghastly",
+    "translation": "诡怖"
+  },
+  {
+    "key": "ui374",
+    "original": "dummydummy",
+    "translation": "占位符"
+  },
+  {
+    "key": "ui375",
+    "original": "You need an <b>Uncanny Specimen</b>",
+    "translation": "你需要一个 <b>不思议的标本</b>"
+  },
+  {
+    "key": "ui376",
+    "original": "Horror",
+    "translation": "惊骇"
+  },
+  {
+    "key": "ui377",
+    "original": "Wonder",
+    "translation": "奇观"
+  },
+  {
+    "key": "ui378",
+    "original": "Platform",
+    "translation": "月台"
+  },
+  {
+    "key": "ui379",
+    "original": "You need <b>Affiliation: Academe</b>",
+    "translation": "你需要 <b>隶属关系。学术界</b>"
   },
   {
     "key": "ui380",
-    "original": "Something that Glisters",
-    "translation": "财富",
-    "stage": 0
+    "original": "You need {{A}} <b>Sovereigns</b> <i>(you have {{B}})</i>",
+    "translation": "你需要{{A}} <b>金镑</b> <i>(你有{{B}})</i>"
   },
   {
     "key": "ui381",
-    "original": "Something Grave",
-    "translation": "肃穆",
-    "stage": 0
+    "original": "You need <b>Affiliation: Villainy</b> {{A}}<i> (you have {{B}})</i>",
+    "translation": "你需要 <b>隶属关系。恶棍</b> {{A}}<i> (你有{{B}})</i>"
   },
   {
     "key": "ui382",
-    "original": "Something Ghastly",
-    "translation": "诡怖",
-    "stage": 0
+    "original": "You need a <b>Savage Secret</b>",
+    "translation": "你需要一个 <b>野蛮的秘密</b>"
   },
   {
     "key": "ui383",
-    "original": "An occurrence! Your 'Hull' Quality is now {{A}}!",
-    "translation": "发生了!你的 \"船体 \"质量现在是{{A}}!",
-    "stage": 0
+    "original": "Remove",
+    "translation": "移除"
   },
   {
     "key": "ui384",
-    "original": "You need an <b>Uncanny Specimen</b>",
-    "translation": "你需要一个 <b>不思议的标本</b>",
-    "stage": 0
+    "original": "Replace",
+    "translation": "替换"
   },
   {
     "key": "ui385",
-    "original": "You need <b>Affiliation: Academe</b>",
-    "translation": "你需要 <b>隶属关系。学术界</b>",
-    "stage": 0
+    "original": "r:Press a key to assign it to ([A-Z][a-z]*) ([A-Z][a-z]*). Modifier keys may also be used. To assign a modifier key alone, hold it down for {{A}} second.",
+    "translation": "请按下要分配的按键，也可以使用修饰键。要单独指定一个修饰键，请按住该键{{A}}秒。"
   },
   {
     "key": "ui386",
-    "original": "You need {{A}} <b>Sovereigns</b> <i>(you have {{B}})</i>",
-    "translation": "你需要{{A}} <b>金镑</b> <i>(你有{{B}})</i>",
-    "stage": 0
+    "original": "Add",
+    "translation": "添加"
   },
   {
     "key": "ui387",
-    "original": "You need <b>Affiliation: Villainy</b> {{A}}<i> (you have {{B}})</i>",
-    "translation": "你需要 <b>隶属关系。恶棍</b> {{A}}<i> (你有{{B}})</i>",
-    "stage": 0
+    "original": "sr:(?<key>[\\w]) is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
+    "translation": "${key}已经在使用了。你想替换它吗？你也可以选择无论如何都要添加这个任务。"
   },
   {
     "key": "ui388",
-    "original": "You need a <b>Savage Secret</b>",
-    "translation": "你需要一个 <b>野蛮的秘密</b>",
-    "stage": 0
+    "original": "Assignment Conflict",
+    "translation": "分配冲突"
   },
   {
     "key": "ui389",
-    "original": "Remove",
-    "translation": "移除",
-    "stage": 0
+    "original": "Speed up <sprite name\\=\"key_w\">    Back <sprite name\\=\"key_esc\">",
+    "translation": "加速 <sprite name\\=\"key_w\">    返回 <sprite name\\=\"key_esc\">"
   },
   {
     "key": "ui390",
-    "original": "Replace",
-    "translation": "替换",
-    "stage": 0
+    "original": "Hide\\nAdvice",
+    "translation": "隐藏建议"
   },
   {
     "key": "ui391",
-    "original": "r:Press a key to assign it to ([A-Z][a-z]*) ([A-Z][a-z]*). Modifier keys may also be used. To assign a modifier key alone, hold it down for {{A}} second.",
-    "translation": "请按下要分配的按键，也可以使用修饰键。要单独指定一个修饰键，请按住该键{{A}}秒。",
-    "stage": 0
-  },
-  {
-    "key": "ui392",
-    "original": "Add",
-    "translation": "添加",
-    "stage": 0
-  },
-  {
-    "key": "ui393",
-    "original": "L is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
-    "translation": "L已经在使用了。你想替换它吗？你也可以选择无论如何都要添加这个任务。",
-    "stage": 0
-  },
-  {
-    "key": "ui394",
-    "original": "Assignment Conflict",
-    "translation": "任务冲突",
-    "stage": 0
-  },
-  {
-    "key": "ui395",
-    "original": "O is already in use. Do you want to replace it? You may also choose to add the assignment anyway.",
-    "translation": "O已经在使用了。你想替换它吗？你也可以选择无论如何都要添加该任务。",
-    "stage": 0
-  },
-  {
-    "key": "ui396",
-    "original": "{{A}} Exp",
-    "translation": "{{A}} Exp",
-    "stage": 0
-  },
-  {
-    "key": "ui397",
-    "original": "Your History",
-    "translation": "你的历史",
-    "stage": 0
-  },
-  {
-    "key": "ui398",
-    "original": "Facets to Take:  <#FFFFFFB2>0</color>",
-    "translation": "要采取的面。  <#FFFFFFB2>0</color>",
-    "stage": 0
-  },
-  {
-    "key": "ui399",
-    "original": "+{{A}} Veils",
-    "translation": "+{{A}}面纱",
-    "stage": 0
+    "original": "Disable\\nAdvice",
+    "translation": "禁用建议"
   }
 ]

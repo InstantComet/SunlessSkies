@@ -179,7 +179,6 @@ TraitorsWood=叛徒木头
 "A handful of tangle-haired recluses dwell in the wood, growing food in their glade-gardens. Sometimes they visit the bazaar, selling their wares silently."=一小撮头发纠结的隐士住在树林里，在他们的高兴园里种植食物。有时，他们会到巴扎上，默默地出售他们的商品。
 "A handful of tangle-haired recluses dwell in the wood, growing food in their glade-gardens..."=一小撮头发纠结的隐士住在树林里，在他们的高兴花园里种植食物。
 An arboreal opportunity: seeds from the forest=一个树栖的机会：来自森林的种子
-Carillon=钟琴区
 "The Buoyant Broker has been trying to sell hours to devils. ""They just ain't interested,"" he complains. ""Suspicious, ain't it? Who'd turn down a little more time, eh? Show me a contented man and I'll show you a lunatic."""="浮躁的经纪人一直在试图向魔鬼们推销时间。""他们就是不感兴趣，""他抱怨道。""很可疑，不是吗？谁会拒绝多一点时间呢？给我看一个满意的人，我就给你看一个疯子。"""
 The Buoyant Broker has been trying to sell hours to devils...=浮躁的经纪人一直在努力向魔鬼卖出时间...
 The Buoyant Broker: a trove of unwanted hours=充满活力的经纪人：不需要的时间的宝库

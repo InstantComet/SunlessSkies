@@ -29,9 +29,9 @@ Captains pay a small fee for the Port Authorities' services in winnowing out the
 Mme. Lumire's=卢米埃尔夫人的百宝阁
 "Mme. Lumire has established herself in a spacious garret over a vine bridge. When not upsetting her fellow citizens, she's on the look-out for curiosities captains might have acquired in their travels."=卢米埃尔夫人在藤桥上的一个宽敞的阁楼里经营着自己的生意。在不打扰她邻居的同时，她在寻找车长们在旅行中获得的奇珍异宝。
 Abraham's Engineering=亚伯拉罕的机车间
-"Locomotive plating, improvements and refurbishments. An estimable choice."=机车镀层、改进和翻新。值得信赖的选择。
+Locomotive plating, improvements and refurbishments. An estimable choice.=机车镀层、改进和翻新。值得信赖的选择。
 Wolvesey Engine Yard=伍夫斯托克废旧机车场
-"A notorious graveyard for unwanted, unloved or blasted-out-of-the-sky engines. Occasionally there are gems among the scrap. (If your locomotive is damaged its sale value will be reduced to cover repairs.)"="一个臭名昭著的墓地，埋藏了那些不被需要、不受喜爱或炸得面目全非的机车。偶尔=废品中也会藏着珍品。(如果你的机车损坏了，其销售价格将会减去你应支付的维修费用）"
+A notorious graveyard for unwanted, unloved or blasted-out-of-the-sky engines. Occasionally there are gems among the scrap. (If your locomotive is damaged its sale value will be reduced to cover repairs.)\n\n=一一个臭名昭著的墓地，埋藏了那些不被需要、不受喜爱或炸得面目全非的机车。偶尔=废品中也会藏着珍品。(如果你的机车损坏了，其销售价格将会减去你应支付的维修费用）。\n\n
 purchased=已购买
 sold=已售出
 "A fine looking vessel, awful similar to your starting one..."=一艘漂亮的舰船，与你开始的那艘非常相似......
@@ -41,7 +41,6 @@ An engine that'll get the job done.=一个能完成工作的引擎。
 Fast as Hell's chargers.=如地狱的冲锋者一样迅速。
 Victoria Market=维多利亚市场
 Stalls and shops; hawkers and brokers. You can sell practically anything at the Victoria Market. =摊位和商店；小贩和经纪人。在维多利亚市场，你几乎可以出售任何东西。 
-Carillon=钟琴区
 The Visitor's Emporium=游客商店
 "The Emporium offers visitors all that they might need to leave Carillon, as well as a few winning examples from their stained glass collection."=商场为游客提供离开钟琴区可能需要的所有东西，以及他们的彩色玻璃收藏中的一些获奖样品。
 The Bursary of Souls=灵魂财务室
@@ -73,7 +72,6 @@ Sweet Jane's Supplies=甜蜜简氏补给
 The little accountancy firm on Lustrum buys fuel and Hours from desperate miners. It buys in food and illicit weaponry to provide for their needs in return.=伍载镇的小会计师事务所用食物和非法武器作交换，从绝望的矿工那里购买燃料和小时。
 Sweet Jane's Trading Post=甜蜜简氏贸易站
 "A bustling, family-run concern that supplies skyfarers, and trades in hours bought from local prospectors. "=这是一家热闹的家庭式企业，为天行者提供补给，并交易从当地探矿者那里购买的时间。 
-Port Prosper=兴荣港
 Fullbright's Necessaries =明光牌必需品 
 The only shop permitted to sell supplies to skyfarers in Port Prosper.=唯一被允许向兴荣港的天行者出售用品的商店。
 Nelson's Emporium=纳尔逊的商店
